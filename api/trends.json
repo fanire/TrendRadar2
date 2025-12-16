@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T15:28:30.309601+08:00",
-  "total_titles_processed": 1361,
+  "generated_at": "2025-12-16T16:37:15.680237+08:00",
+  "total_titles_processed": 1489,
   "failed_sources": [],
   "trends": [
     {
@@ -52,8 +52,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时59分 ~ 15时28分]"
+          "appearance_count": 11,
+          "time_info": "[09时59分 ~ 16时37分]"
         },
         {
           "title": "日媒爆特朗普警告高市早苗别添乱",
@@ -109,8 +109,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时41分 ~ 15时28分]"
+          "appearance_count": 9,
+          "time_info": "[11时41分 ~ 16时37分]"
         },
         {
           "title": "特朗普正式起诉BBC 共索赔100亿美元",
