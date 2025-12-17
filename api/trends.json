@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T15:27:52.401135+08:00",
-  "total_titles_processed": 1333,
+  "generated_at": "2025-12-17T16:37:00.227457+08:00",
+  "total_titles_processed": 1467,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 46,
       "titles": [
         {
           "title": "特朗普：认定委内瑞拉现政府是“外国恐怖组织”",
@@ -123,6 +123,18 @@
           "time_info": "03时23分"
         },
         {
+          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
+          "url": "https://wallstreetcn.com/articles/3761525",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时28分 ~ 16时37分]"
+        },
+        {
           "title": "白宫新闻秘书莱维特：特朗普将于明天前往多佛空军基地，出席在叙利亚阵亡美军士兵的移交仪式。",
           "url": "https://flash.jin10.com/detail/20251217030906763800",
           "source": "金十数据",
@@ -228,15 +240,16 @@
           "time_info": "[05时26分 ~ 06时24分]"
         },
         {
-          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
-          "url": "https://wallstreetcn.com/articles/3761525",
-          "source": "华尔街见闻",
+          "title": "特朗普称已下令封锁所有进出委内瑞拉受制裁油轮",
+          "url": "https://www.cls.cn/detail/2231712",
+          "source": "财联社热门",
           "ranks": [
-            10
+            13,
+            11
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时28分 ~ 15时27分]"
+          "time_info": "[14时39分 ~ 16时37分]"
         },
         {
           "title": "特朗普下令封锁所有受制裁委油轮",
@@ -272,6 +285,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时36分 ~ 01时46分]"
+        },
+        {
+          "title": "白宫幕僚长尖锐点评特朗普、马斯克等人，却获白宫力挺",
+          "url": "https://news.ifeng.com/c/8p9nCXu9FDv",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 16时37分]"
         },
         {
           "title": "美国州政府官员们终止关于马斯克在特朗普政府担职的案件",
@@ -332,17 +356,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时30分 ~ 05时26分]"
-        },
-        {
-          "title": "特朗普称已下令封锁所有进出委内瑞拉受制裁油轮",
-          "url": "https://www.cls.cn/detail/2231712",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时39分 ~ 14时40分]"
         },
         {
           "title": "Citadel创始人Ken Griffin：与美国白宫和美联储保持距离具有重要意义。 美国总统（特朗普）脑子中对下一任美联储主席有不错的人选。 我自己不会对下一任美联储主席的人选发表看法。",
