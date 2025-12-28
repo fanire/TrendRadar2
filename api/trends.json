@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T20:50:36.825726+08:00",
-  "total_titles_processed": 1154,
+  "generated_at": "2025-12-28T21:33:46.092362+08:00",
+  "total_titles_processed": 1205,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时30分 ~ 07时24分]"
+        },
+        {
+          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
+          "url": "https://wallstreetcn.com/articles/3762196",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时29分 ~ 21时33分]"
         },
         {
           "title": "泽连斯基周日会晤特朗普讨论“敏感问题”，俄副外长：乌公布的“和平计划”草案与俄美商讨内容“根本不同”",
@@ -46,19 +59,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时30分 ~ 06时24分]"
-        },
-        {
-          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
-          "url": "https://wallstreetcn.com/articles/3762196",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时29分 ~ 20时50分]"
         },
         {
           "title": "美国总统特朗普：关税正在为美国创造巨大财富，并带来前所未有的国家安全保障。贸易逆差已削减60%，实属史无前例。GDP增长率达4.3%，且持续攀升。没有通货膨胀！！！我们国家再次赢得世界尊重。",
@@ -109,6 +109,17 @@
           "time_info": "[00时30分 ~ 03时20分]"
         },
         {
+          "title": "泽连斯基：我想跟特朗普谈5个问题",
+          "url": "https://news.ifeng.com/c/8pS8Ckuh1cP",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时26分 ~ 21时33分]"
+        },
+        {
           "title": "乌媒：泽连斯基概述想和特朗普讨论“和平计划”的5个问题",
           "url": "https://flash.jin10.com/detail/20251228145227378800",
           "source": "金十数据",
@@ -157,17 +168,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时11分 ~ 12时11分]"
-        },
-        {
-          "title": "泽连斯基：我想跟特朗普谈5个问题",
-          "url": "https://news.ifeng.com/c/8pS8Ckuh1cP",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时26分 ~ 20时50分]"
         },
         {
           "title": "泽连斯基抵达美国，准备与特朗普会谈",
