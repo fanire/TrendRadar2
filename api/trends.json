@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T20:30:42.848233+08:00",
-  "total_titles_processed": 1844,
+  "generated_at": "2026-01-13T21:37:08.980420+08:00",
+  "total_titles_processed": 1960,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 92,
+      "match_count": 93,
       "titles": [
         {
           "title": "伊朗局势突然反转，特朗普又心生一计",
@@ -41,6 +41,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时19分 ~ 07时12分]"
+        },
+        {
+          "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
+          "url": "https://news.ifeng.com/c/8pspQ2slRcl",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时21分 ~ 21时37分]"
         },
         {
           "title": "特朗普转发“鲁比奥将成为古巴总统”帖子：听起来不错",
@@ -92,8 +104,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时58分 ~ 20时30分]"
+          "appearance_count": 16,
+          "time_info": "[10时58分 ~ 21时37分]"
         },
         {
           "title": "特朗普：最高法若作出对美不利裁决，我们就完蛋了",
@@ -108,18 +120,6 @@
           "time_info": "[10时58分 ~ 16时20分]"
         },
         {
-          "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
-          "url": "https://news.ifeng.com/c/8pspQ2slRcl",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时21分 ~ 20时30分]"
-        },
-        {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税，油价短线走高",
           "url": "https://wallstreetcn.com/articles/3763124",
           "source": "华尔街见闻",
@@ -130,8 +130,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时01分 ~ 20时30分]"
+          "appearance_count": 17,
+          "time_info": "[09时01分 ~ 21时37分]"
+        },
+        {
+          "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
+          "url": "https://news.ifeng.com/c/8psqYtTK9Dp",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时14分 ~ 21时37分]"
         },
         {
           "title": "北约秘书长帮腔特朗普：中俄恐将越来越活跃",
@@ -143,8 +154,22 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时03分 ~ 20时30分]"
+          "appearance_count": 14,
+          "time_info": "[12时03分 ~ 21时37分]"
+        },
+        {
+          "title": "调查鲍威尔引内讧？FHFA局长被指幕后推手，贝森特警告“制造混乱”，白宫称特朗普未指示行动",
+          "url": "https://wallstreetcn.com/articles/3763119",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[10时58分 ~ 21时37分]"
         },
         {
           "title": "从“架空美联储”到“起诉鲍威尔”--“输不起中选”的特朗普决定“接管美联储”",
@@ -159,20 +184,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时19分 ~ 13时20分]"
-        },
-        {
-          "title": "调查鲍威尔引内讧？FHFA局长被指幕后推手，贝森特警告“制造混乱”，白宫称特朗普未指示行动",
-          "url": "https://wallstreetcn.com/articles/3763119",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时58分 ~ 20时30分]"
         },
         {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税",
@@ -201,17 +212,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时19分 ~ 09时01分]"
-        },
-        {
-          "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
-          "url": "https://news.ifeng.com/c/8psqYtTK9Dp",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时14分 ~ 20时30分]"
         },
         {
           "title": "特朗普称接管格陵兰岛是为防中俄觊觎，外交部：谋私利别拿他国当借口",
@@ -669,7 +669,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时30分"
         },
@@ -903,6 +903,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
+        },
+        {
+          "title": "特朗普政府终止了数千名在美索马里人的临时保护身份。",
+          "url": "https://flash.jin10.com/detail/20260113210215549800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "诺和诺德(NVO.N)CEO：特朗普政府的“直言不讳”方式有利于达成协议。",
@@ -1233,7 +1244,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时30分"
         },
@@ -1288,7 +1299,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时30分"
         },
@@ -1362,7 +1373,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
@@ -1373,8 +1384,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时01分 ~ 20时30分]"
+          "appearance_count": 17,
+          "time_info": "[09时01分 ~ 21时37分]"
         },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
@@ -1388,8 +1399,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时01分 ~ 20时30分]"
+          "appearance_count": 17,
+          "time_info": "[09时01分 ~ 21时37分]"
         },
         {
           "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
@@ -1507,6 +1518,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时20分 ~ 01时18分]"
+        },
+        {
+          "title": "UP主锐评苹果谷歌合作",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E8%8B%B9%E6%9E%9C%E8%B0%B7%E6%AD%8C%E5%90%88%E4%BD%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 21时37分]"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌涨1%，收盘市值达到4万亿美元，Meta跌1.7%",
@@ -1655,8 +1677,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时20分 ~ 20时30分]"
+          "appearance_count": 10,
+          "time_info": "[16时20分 ~ 21时37分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文",
