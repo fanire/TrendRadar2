@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T14:22:46.618171+08:00",
-  "total_titles_processed": 1337,
+  "generated_at": "2026-01-15T15:20:39.572113+08:00",
+  "total_titles_processed": 1448,
   "failed_sources": [],
   "trends": [
     {
@@ -50,8 +50,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时34分 ~ 14时22分]"
+          "appearance_count": 4,
+          "time_info": "[12时34分 ~ 15时20分]"
         },
         {
           "title": "美国最高法院再次没能就特朗普关税政策的官司做出裁决，纳指维持1%跌幅",
@@ -62,8 +62,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时02分 ~ 14时22分]"
+          "appearance_count": 7,
+          "time_info": "[09时02分 ~ 15时20分]"
         },
         {
           "title": "多国敦促公民离开伊朗 特朗普称将观望伊朗局势发展 | 环球市场",
@@ -76,8 +76,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时02分 ~ 14时22分]"
+          "appearance_count": 7,
+          "time_info": "[09时02分 ~ 15时20分]"
         },
         {
           "title": "韩国官员：若法院对特朗普的关税裁决不利 韩国将寻求“最佳”应对方案",
@@ -122,6 +122,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
+          "url": "https://www.cls.cn/detail/2258223",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时34分 ~ 15时20分]"
         },
         {
           "title": "标普500能源指数回吐涨幅，美国总统特朗普谈及伊朗。",
@@ -172,16 +185,17 @@
           "time_info": "[11时25分 ~ 14时22分]"
         },
         {
-          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
-          "url": "https://www.cls.cn/detail/2258223",
-          "source": "财联社热门",
+          "title": "特朗普同委内瑞拉代总统通话",
+          "url": "https://www.toutiao.com/trending/7594631182898397227/",
+          "source": "今日头条",
           "ranks": [
-            8,
-            7
+            22,
+            12,
+            14
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时34分 ~ 14时22分]"
+          "time_info": "[13时21分 ~ 15时20分]"
         },
         {
           "title": "哥伦比亚总统称将于2月3日同特朗普会晤",
@@ -276,18 +290,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时15分 ~ 04时14分]"
-        },
-        {
-          "title": "特朗普同委内瑞拉代总统通话",
-          "url": "https://www.toutiao.com/trending/7594631182898397227/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 14时22分]"
         },
         {
           "title": "美国总统特朗普：与丹麦关系很好。",
@@ -857,8 +859,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时02分 ~ 14时22分]"
+          "appearance_count": 7,
+          "time_info": "[09时02分 ~ 15时20分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体收跌 七巨头全军覆没 银行股持续回落",
+          "url": "https://www.cls.cn/detail/2258154",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时02分 ~ 15时20分]"
         },
         {
           "title": "科技股暴跌，美股指跌幅扩大，纳指跌1.5%，金属狂飙，现货白银站上92美元，锡铜新高",
@@ -872,18 +886,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时23分 ~ 06时15分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体收跌 七巨头全军覆没 银行股持续回落",
-          "url": "https://www.cls.cn/detail/2258154",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时02分 ~ 14时22分]"
         },
         {
           "title": "美股集体低开 携程跌近17%",
@@ -1119,11 +1121,12 @@
           "ranks": [
             12,
             10,
-            14
+            14,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时34分 ~ 14时22分]"
+          "appearance_count": 4,
+          "time_info": "[12时34分 ~ 15时20分]"
         },
         {
           "title": "谷歌：在Gemini推出个人智能。 用户可以通过APPs将Gemini个性化。 让Gemini更加个性化，更加主动，更加强大。",
