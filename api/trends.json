@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T22:02:02.835582+08:00",
-  "total_titles_processed": 1990,
+  "generated_at": "2026-02-05T22:50:45.958684+08:00",
+  "total_titles_processed": 2089,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 48,
       "titles": [
         {
           "title": "习近平同特朗普通电话",
@@ -67,8 +67,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[01时39分 ~ 22时02分]"
+          "appearance_count": 26,
+          "time_info": "[01时39分 ~ 22时50分]"
         },
         {
           "title": "特朗普：中美元首通话内容详实，气氛积极",
@@ -139,6 +139,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时34分"
+        },
+        {
+          "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
+          "url": "https://news.ifeng.com/c/8qUsyGpiCYu",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时40分 ~ 22时50分]"
         },
         {
           "title": "美国财长贝森特：已有超过100万美国家庭为2025年至2028年出生的儿童注册了“特朗普账户”。",
@@ -229,18 +241,6 @@
           "time_info": "[03时34分 ~ 05时26分]"
         },
         {
-          "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
-          "url": "https://news.ifeng.com/c/8qUsyGpiCYu",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时40分 ~ 22时02分]"
-        },
-        {
           "title": "美国联邦住房金融局局长普尔特：房利美和房地美已做好上市准备，接下来就看总统特朗普的决定了。",
           "url": "https://flash.jin10.com/detail/20260205033722491800",
           "source": "金十数据",
@@ -317,6 +317,18 @@
           "time_info": "[06时18分 ~ 07时20分]"
         },
         {
+          "title": "沃什未上任已被特朗普施压",
+          "url": "https://www.douyin.com/hot/2390169",
+          "source": "抖音",
+          "ranks": [
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时01分 ~ 22时50分]"
+        },
+        {
           "title": "企图在高尔夫球场刺杀特朗普的枪手被判终身监禁",
           "url": "https://flash.jin10.com/detail/20260205021201236800",
           "source": "金十数据",
@@ -365,24 +377,13 @@
           "time_info": "[01时40分 ~ 02时38分]"
         },
         {
-          "title": "沃什未上任已被特朗普施压",
-          "url": "https://www.douyin.com/hot/2390169",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时01分 ~ 22时02分]"
-        },
-        {
           "title": "特朗普预计将于今日推出名为TrumpRx的全新处方药直销平台。（CNN）",
           "url": "https://wallstreetcn.com/livenews/3050711",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -442,6 +443,17 @@
           "time_info": "12时07分"
         },
         {
+          "title": "美国总统特朗普：伊朗正在谈判。",
+          "url": "https://flash.jin10.com/detail/20260205221446756800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
           "title": "据Politico：美国众议院议长约翰逊计划今天下午会见美国总统特朗普。",
           "url": "https://flash.jin10.com/detail/20260205015333473800",
           "source": "金十数据",
@@ -497,6 +509,17 @@
           "time_info": "09时15分"
         },
         {
+          "title": "美国总统特朗普：重申与委内瑞拉相处得非常好。",
+          "url": "https://wallstreetcn.com/livenews/3050730",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
           "title": "美国国务卿鲁比奥：美国总统特使威特科夫和特朗普女婿库什纳将出席有关乌克兰会议的部分议程。",
           "url": "https://flash.jin10.com/detail/20260204233806408800",
           "source": "金十数据",
@@ -519,6 +542,28 @@
           "time_info": "19时31分"
         },
         {
+          "title": "美国总统特朗普再次抨击欧洲使用风能发电的行为。",
+          "url": "https://flash.jin10.com/detail/20260205221032241800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
+          "title": "美国总统特朗普重申对国土安全部部长诺姆的支持。",
+          "url": "https://flash.jin10.com/detail/20260205220826755800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
           "title": "金十提示：美国总统特朗普将于周四晚7点（北京时间周五8点）发表声明。",
           "url": "https://flash.jin10.com/detail/20260205075841513800",
           "source": "金十数据",
@@ -533,7 +578,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
@@ -614,6 +659,18 @@
           "time_info": "[07时20分 ~ 15时45分]"
         },
         {
+          "title": "美股盘前三大股指齐跌，纳指期货跌逾1%，比特币跌破7万关键心理位，VIX指数飙升7%，白银再度暴跌10%",
+          "url": "https://wallstreetcn.com/articles/3765023",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时01分 ~ 22时50分]"
+        },
+        {
           "title": "市值蒸发万亿！美股软件行业空头肆虐 对冲基金年内狂赚240亿美元",
           "url": "https://www.cls.cn/detail/2281312",
           "source": "财联社热门",
@@ -628,15 +685,26 @@
           "time_info": "[16时33分 ~ 20时41分]"
         },
         {
-          "title": "美股盘前三大股指齐跌，纳指期货跌逾1%，比特币跌破7万关键心理位，VIX指数飙升7%，白银再度暴跌10%",
-          "url": "https://wallstreetcn.com/articles/3765023",
-          "source": "华尔街见闻",
+          "title": "美股开盘，道指跌0.55%，标普500指数跌0.87%，纳指跌1.3%。Alphabet(GOOG.O)跌6.6%，公司2026年资本支出指引远超预期。蔚来汽车(NIO.N)涨7.9%，公司预计Q4将首次实现单季度盈利。叮咚买菜(DDL.N)跌12%，美团拟7.17亿美元收购叮咚买菜。",
+          "url": "https://flash.jin10.com/detail/20260205223029069800",
+          "source": "金十数据",
           "ranks": [
-            3
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时01分 ~ 22时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
+          "title": "可选消费ETF跌1.39%，能源业ETF跌1.15%，网络股指数ETF跌1.05%，科技行业ETF跌0.59%，在美股盘初领跌行业ETF，生物科技指数ETF涨0.63%。",
+          "url": "https://wallstreetcn.com/livenews/3050756",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "蔚来美股盘前涨超11%，此前公司发布盈利预告：2025年四季度实现季度盈利，经营利润7亿至12亿元。",
@@ -656,9 +724,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
+        },
+        {
+          "title": "美股科技股抛售蔓延，闪迪跌近 16%，AMD 跌超 17% 创八年多来最大单日跌幅，光伏板块爆发，如何解读？",
+          "url": "https://www.zhihu.com/question/2002675555208803379",
+          "source": "知乎",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时40分 ~ 22时50分]"
         },
         {
           "title": "周三（2月4日）美股尾盘，彭博电动汽车价格回报指数涨0.65%，报3533.63点。 该指数全天处于上涨状态，整体呈现出“几”形走势，北京时间14:00-00:00高位震荡，最高在美股盘初达到3561.87点。 成分股宝马收涨3.88%，Ola Electric Mobility Ltd.涨3.6%，意法半导体收涨3.6%，保时捷P911涨3.5%，理想汽车H股收涨3.43%，浙江零跑科技H股收涨2.88%表现第六，智利化工矿业公司（SQM）则跌5.3%，MP材料跌6.2%，文远知行跌7.2%，Solid Power跌9.5%。",
@@ -671,17 +751,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时26分 ~ 06时19分]"
-        },
-        {
-          "title": "美股科技股抛售蔓延，闪迪跌近 16%，AMD 跌超 17% 创八年多来最大单日跌幅，光伏板块爆发，如何解读？",
-          "url": "https://www.zhihu.com/question/2002675555208803379",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时40分 ~ 22时02分]"
         },
         {
           "title": "相干公司Coherent Corp.（COHR）美股盘后跌19%。",
@@ -848,12 +917,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        },
+        {
+          "title": "诺和诺德ADR美股盘前跌6.3%，报道称“平价医药供应商”Hims & Hers提供49美元的Wegovy仿制药。 礼来制药盘前下跌。",
+          "url": "https://wallstreetcn.com/livenews/3050723",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
@@ -864,8 +944,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时15分 ~ 22时02分]"
+          "appearance_count": 16,
+          "time_info": "[09时15分 ~ 22时50分]"
         },
         {
           "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
@@ -874,11 +954,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时44分 ~ 22时02分]"
+          "appearance_count": 12,
+          "time_info": "[15时44分 ~ 22时50分]"
         },
         {
           "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
@@ -929,6 +1010,17 @@
           "time_info": "07时20分"
         },
         {
+          "title": "Gemini跌5%，该公司计划裁员，关闭多地的账号。",
+          "url": "https://wallstreetcn.com/livenews/3050752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
           "title": "Alphabet(GOOG.O)CEO皮查伊：苹果(AAPL.O)选择谷歌云作为其首选云服务提供商。",
           "url": "https://flash.jin10.com/detail/20260205055519813800",
           "source": "金十数据",
@@ -948,8 +1040,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时01分 ~ 22时02分]"
+          "appearance_count": 3,
+          "time_info": "[22时01分 ~ 22时50分]"
         },
         {
           "title": "谷歌母公司Alphabet：所搜同比增长17%。 YouTube 9%的增长来自直接响应的广告。 公司在AI模型中测试广告。",
@@ -1036,6 +1128,17 @@
           "time_info": "[06时19分 ~ 07时20分]"
         },
         {
+          "title": "谷歌母公司Alphabet跌7%，创5月7日以来最差盘中表现。 该公司出现历史性财务里程碑：年营收首破4000亿美元大关。季度合并营收同比增长18%，全年营收同比增长15%。预计2026年资本支出将进一步扩大至1750亿-1850亿美元，同比翻倍。",
+          "url": "https://wallstreetcn.com/livenews/3050751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
           "title": "谷歌母公司Alphabet ：我们大约50%的代码由AI代理编写。",
           "url": "https://wallstreetcn.com/livenews/3050126",
           "source": "华尔街见闻-快讯",
@@ -1067,6 +1170,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        },
+        {
+          "title": "Gemini Space Station Inc.计划裁员200人，该公司将继续在美国和新加坡运营。",
+          "url": "https://wallstreetcn.com/livenews/3050744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "Alphabet(GOOGL.O)：谷歌云收入增长48%至177亿美元，主要得益于企业对AI基础设施（GCP）及AI解决方案的需求增长，核心GCP产品亦表现强劲。",
@@ -1148,6 +1262,34 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI推出OpenAI Frontier。",
+          "url": "https://flash.jin10.com/detail/20260205221051792800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
+          "title": "网络状况监测网站DownDetector：用户报告显示，OpenAI在美国的使用出现问题。",
+          "url": "https://flash.jin10.com/detail/20260205013400830800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时38分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -1191,23 +1333,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[15时44分 ~ 20时41分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "网络状况监测网站DownDetector：用户报告显示，OpenAI在美国的使用出现问题。",
-          "url": "https://flash.jin10.com/detail/20260205013400830800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时38分"
         }
       ]
     }
