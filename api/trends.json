@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T16:42:06.059927+08:00",
-  "total_titles_processed": 1258,
+  "generated_at": "2026-02-10T17:53:56.687368+08:00",
+  "total_titles_processed": 1376,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普再放豪言：我选的美联储掌门沃什 有能力推动美国经济增长15%！",
@@ -60,6 +60,20 @@
           "time_info": "[12时26分 ~ 16时42分]"
         },
         {
+          "title": "谷爱凌回应特朗普大骂冬奥运动员",
+          "url": "https://www.toutiao.com/trending/7605068464549744178/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            11,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时26分 ~ 17时53分]"
+        },
+        {
           "title": "据华尔街日报：特朗普政府官员最近几周向国会共和党人施压，要求将投资者禁令作为修正案纳入目前正在众议院和参议院审议的两项主要住房法案中。",
           "url": "https://flash.jin10.com/detail/20260210021604727800",
           "source": "金十数据",
@@ -102,19 +116,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
-        },
-        {
-          "title": "谷爱凌回应特朗普大骂冬奥运动员",
-          "url": "https://www.toutiao.com/trending/7605068464549744178/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时26分 ~ 16时42分]"
         },
         {
           "title": "加拿大谴责特朗普阻挠美加跨国大桥项目",
@@ -173,6 +174,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时26分 ~ 14时08分]"
+        },
+        {
+          "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
+          "url": "https://news.ifeng.com/c/8qdLiMlCmog",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         },
         {
           "title": "特朗普设定15%增长目标 沃什入主美联储压力倍增",
@@ -296,6 +308,17 @@
           "time_info": "12时26分"
         },
         {
+          "title": "特朗普威胁要阻止美加跨国大桥通车",
+          "url": "https://www.toutiao.com/trending/7604069122414231606/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        },
+        {
           "title": "美国汽车工人联合会：1月13日冲撞美国总统特朗普的工人未受纪律处分，仍保留工作。",
           "url": "https://flash.jin10.com/detail/20260210003111533800",
           "source": "金十数据",
@@ -310,7 +333,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
@@ -321,8 +344,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时29分 ~ 16时42分]"
+          "appearance_count": 7,
+          "time_info": "[09时29分 ~ 17时53分]"
         },
         {
           "title": "美股三大期指盘前集体走低 美光跌3%诺和诺德暴涨 | 今夜看点",
@@ -359,6 +382,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时44分 ~ 04时37分]"
+        },
+        {
+          "title": "美股光通信股盘前延续涨势，Credo Technology大涨超17%，Astera Labs盘前续涨超5%，康宁涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3052937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         },
         {
           "title": "金十图示：2026年02月09日（周一）美股热门股票行情一览（美股收盘）",
@@ -501,6 +535,17 @@
           "time_info": "02时46分"
         },
         {
+          "title": "台积电美股盘前涨2.5%。台积电1月销售额同比增长36.8%。",
+          "url": "https://wallstreetcn.com/livenews/3052910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        },
+        {
           "title": "美股延续涨势，纳指上涨1%。",
           "url": "https://flash.jin10.com/detail/20260210004256018800",
           "source": "金十数据",
@@ -615,7 +660,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         }
