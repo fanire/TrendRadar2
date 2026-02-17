@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T14:48:36.535540+08:00",
-  "total_titles_processed": 1006,
+  "generated_at": "2026-02-17T15:46:40.383322+08:00",
+  "total_titles_processed": 1102,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时18分 ~ 14时48分]"
+          "appearance_count": 7,
+          "time_info": "[09时18分 ~ 15时46分]"
         },
         {
           "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
@@ -409,8 +409,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时18分 ~ 14时48分]"
+          "appearance_count": 7,
+          "time_info": "[09时18分 ~ 15时46分]"
         },
         {
           "title": "美银Hartnett：“AI颠覆交易”加速扩散，一旦有科技巨头削减开支，将引发美股“轮动海啸”",
@@ -474,8 +474,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时34分 ~ 14时48分]"
+          "appearance_count": 16,
+          "time_info": "[00时34分 ~ 15时46分]"
         },
         {
           "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
@@ -489,8 +489,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时34分 ~ 14时48分]"
+          "appearance_count": 16,
+          "time_info": "[00时34分 ~ 15时46分]"
         },
         {
           "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
