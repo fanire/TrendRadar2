@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T16:36:27.870648+08:00",
-  "total_titles_processed": 1277,
+  "generated_at": "2026-02-18T17:39:29.364633+08:00",
+  "total_titles_processed": 1376,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 44,
       "titles": [
         {
           "title": "美国专家：美伊谈判前景像掷硬币，关键在于特朗普的决策",
@@ -79,6 +79,17 @@
           "time_info": "[03时42分 ~ 07时22分]"
         },
         {
+          "title": "特朗普、拜登、奥巴马、克林顿齐发声",
+          "url": "https://news.ifeng.com/c/8qqUCbPAN8F",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 17时39分]"
+        },
+        {
           "title": "美国纽约市市长：美国总统特朗普政府再次解冻了7700万美元的纽约隧道资金。",
           "url": "https://flash.jin10.com/detail/20260218012450530800",
           "source": "金十数据",
@@ -126,15 +137,15 @@
           "time_info": "07时22分"
         },
         {
-          "title": "特朗普、拜登、奥巴马、克林顿齐发声",
-          "url": "https://news.ifeng.com/c/8qqUCbPAN8F",
-          "source": "凤凰网",
+          "title": "特朗普女儿伊万卡中文拜年",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%84%BF%E4%BC%8A%E4%B8%87%E5%8D%A1%E4%B8%AD%E6%96%87%E6%8B%9C%E5%B9%B4%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
           "ranks": [
-            4
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时36分"
+          "time_info": "17时39分"
         },
         {
           "title": "美国总统特朗普的内阁与顾问开会，讨论中期选举策略。（Politico）",
@@ -330,6 +341,17 @@
           "time_info": "05时28分"
         },
         {
+          "title": "泽连斯基抱怨：特朗普总是要求乌克兰让步，这不公平",
+          "url": "https://news.ifeng.com/c/8qqOE4vhF5L",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
+        },
+        {
           "title": "特朗普：美日贸易协议已正式启动 日本对美投资计划将涵盖三大战略项目",
           "url": "https://flash.jin10.com/detail/20260218043007197800",
           "source": "金十数据",
@@ -372,6 +394,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
+        },
+        {
+          "title": "市场消息：梵蒂冈方面拒绝加入特朗普的“和平委员会”。",
+          "url": "https://flash.jin10.com/detail/20260218165845600800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
         },
         {
           "title": "英国唐宁街：英国首相斯塔默与美国总统特朗普讨论了正在进行的乌克兰谈判。",
@@ -487,8 +520,20 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
+          "url": "https://wallstreetcn.com/articles/3765810",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时21分 ~ 17时39分]"
+        },
         {
           "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
           "url": "https://wallstreetcn.com/articles/3765796",
@@ -501,18 +546,6 @@
           "time_info": "[00时47分 ~ 05时28分]"
         },
         {
-          "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
-          "url": "https://wallstreetcn.com/articles/3765810",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时21分 ~ 16时36分]"
-        },
-        {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
           "url": "https://www.cls.cn/detail/2291237",
           "source": "财联社热门",
@@ -523,8 +556,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时47分 ~ 16时36分]"
+          "appearance_count": 18,
+          "time_info": "[00时47分 ~ 17时39分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -534,8 +567,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时14分 ~ 16时36分]"
+          "appearance_count": 7,
+          "time_info": "[12时14分 ~ 17时39分]"
         },
         {
           "title": "凯撒娱乐（CZR）美股盘后涨超3%。 该公司四季度同店净营收29.2亿美元，分析师预期28.9亿美元。 四季度同店调整后EBITDA为9.01亿美元，分析师预期9.001亿美元。",
@@ -560,6 +593,17 @@
           "time_info": "07时22分"
         },
         {
+          "title": "美股盘前科技股普涨，黄金收复4900，白银日内涨超3%，欧洲斯托克600触及新纪录高位",
+          "url": "https://wallstreetcn.com/articles/3765834",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
+        },
+        {
           "title": "周二（2月17日）纽约尾盘，彭博电动汽车价格回报指数跌0.36%，报3612.03点，全天处于下跌状态，美股开盘后短线跳水至3591.48点、随后逐步收复这一波失地。 成分股中，EVgo目前跌约7.9%，“特斯拉劲敌”Rivian跌6.8%，Lucid集团跌3.7%，普拉格动力跌3.4%，MobilEye Global Inc.则涨1.5%，美国雅宝涨2.3%，禾赛科技涨4.6%。",
           "url": "https://wallstreetcn.com/livenews/3056121",
           "source": "华尔街见闻-快讯",
@@ -569,6 +613,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
+        },
+        {
+          "title": "美股盘前，科技股普涨，英伟达涨1.6%，美光科技涨约1%，英特尔涨约1%。 黄金股普涨，哈莫尼黄金涨约1%，科尔黛伦矿业涨约2%。",
+          "url": "https://wallstreetcn.com/livenews/3056266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
         },
         {
           "title": "（美股）费城金银指数收跌3.14%，报406.62点。 （全球时段）纽约证交所ARCA金矿开采商指数跌2.83%，报2884.06点，亚太盘初至北京时间22:30窄幅震荡于于2960点附近——维持微幅下跌的状态，美股开盘时“跳空”下挫，23:14刷新日低至2811.85点，随后逐步收复失地。 （美股）原材料指数收跌1.66%，金属与矿业指数收跌1.37%。",
@@ -605,6 +660,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时42分 ~ 07时22分]"
+        },
+        {
+          "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
+          "url": "https://wallstreetcn.com/articles/3765829",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
+        },
+        {
+          "title": "美股盘前，部分明星科技股走强，英伟达(NVDA.O)、美光科技(MU.O)、Meta Platforms(META.O)涨超1%。",
+          "url": "https://flash.jin10.com/detail/20260218170058406800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
         },
         {
           "title": "美股三大指数均小幅收涨",
@@ -687,7 +764,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "据The Information：Anthropic预计到2029年将向亚马逊、谷歌和微软支付至少800亿美元，以在云服务器上运行Claude AI。",
@@ -736,6 +813,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时48分 ~ 01时50分]"
+        },
+        {
+          "title": "Alphabet CEO皮查伊：很高兴今天早上与印度总理莫迪会面。我们讨论了谷歌如何帮助他在印度各级推广人工智能，以改善健康、扩大各语言的信息获取、支持初创企业、农业等等。",
+          "url": "https://flash.jin10.com/detail/20260218164551574800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
         },
         {
           "title": "谷歌母公司Alphabet：谷歌年度开发者大会（I/O developer conference）将于5月19-20日举行。",
@@ -867,9 +955,26 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI与印度多所大学合作，培养具备AI技能的人才。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3056259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
         }
       ]
     }
