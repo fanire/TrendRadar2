@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T15:59:03.888435+08:00",
-  "total_titles_processed": 1215,
+  "generated_at": "2026-02-18T16:36:27.870648+08:00",
+  "total_titles_processed": 1277,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "美国专家：美伊谈判前景像掷硬币，关键在于特朗普的决策",
@@ -46,6 +46,17 @@
           "time_info": "[00时47分 ~ 07时22分]"
         },
         {
+          "title": "特朗普宣布大消息，日本要当冤大头了",
+          "url": "https://news.ifeng.com/c/8qq0daMEvoo",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时21分 ~ 16时36分]"
+        },
+        {
           "title": "特朗普涉台最新表态，台当局和日本都慌了",
           "url": "https://news.ifeng.com/c/8qpOucjNxj3",
           "source": "凤凰网",
@@ -55,17 +66,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时42分 ~ 07时22分]"
-        },
-        {
-          "title": "特朗普宣布大消息，日本要当冤大头了",
-          "url": "https://news.ifeng.com/c/8qq0daMEvoo",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时21分 ~ 15时59分]"
         },
         {
           "title": "特朗普称希拉里精神错乱",
@@ -101,15 +101,18 @@
           "time_info": "12时14分"
         },
         {
-          "title": "美空军确认“空军一号”新涂装将采用特朗普偏爱的配色：红、白、金、深蓝",
-          "url": "https://flash.jin10.com/detail/20260218152713560800",
-          "source": "金十数据",
+          "title": "特朗普女儿伊万卡中文拜年：新年快乐",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%84%BF%E4%BC%8A%E4%B8%87%E5%8D%A1%E4%B8%AD%E6%96%87%E6%8B%9C%E5%B9%B4%EF%BC%9A%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90",
+          "source": "百度热搜",
           "ranks": [
-            1
+            18,
+            14,
+            15,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时59分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时14分 ~ 16时36分]"
         },
         {
           "title": "市场消息：特朗普内阁与顾问开会讨论中期选举策略。",
@@ -123,17 +126,15 @@
           "time_info": "07时22分"
         },
         {
-          "title": "特朗普女儿伊万卡中文拜年：新年快乐",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%84%BF%E4%BC%8A%E4%B8%87%E5%8D%A1%E4%B8%AD%E6%96%87%E6%8B%9C%E5%B9%B4%EF%BC%9A%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90",
-          "source": "百度热搜",
+          "title": "特朗普、拜登、奥巴马、克林顿齐发声",
+          "url": "https://news.ifeng.com/c/8qqUCbPAN8F",
+          "source": "凤凰网",
           "ranks": [
-            18,
-            14,
-            15
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时14分 ~ 15时59分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         },
         {
           "title": "美国总统特朗普的内阁与顾问开会，讨论中期选举策略。（Politico）",
@@ -160,6 +161,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时42分 ~ 05时28分]"
+        },
+        {
+          "title": "美空军确认“空军一号”新涂装将采用特朗普偏爱的配色：红、白、金、深蓝",
+          "url": "https://flash.jin10.com/detail/20260218152713560800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时59分 ~ 16时36分]"
         },
         {
           "title": "美国食品药品管理局（FDA）主管Makary宣称：特朗普政府是“非常支持疫苗的”。",
@@ -488,6 +501,18 @@
           "time_info": "[00时47分 ~ 05时28分]"
         },
         {
+          "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
+          "url": "https://wallstreetcn.com/articles/3765810",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时21分 ~ 16时36分]"
+        },
+        {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
           "url": "https://www.cls.cn/detail/2291237",
           "source": "财联社热门",
@@ -498,20 +523,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时47分 ~ 15时59分]"
+          "appearance_count": 17,
+          "time_info": "[00时47分 ~ 16时36分]"
         },
         {
-          "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
-          "url": "https://wallstreetcn.com/articles/3765810",
-          "source": "华尔街见闻",
+          "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
+          "url": "https://www.cls.cn/detail/2291354",
+          "source": "财联社热门",
           "ranks": [
-            2,
-            1
+            9
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时21分 ~ 15时59分]"
+          "time_info": "[12时14分 ~ 16时36分]"
         },
         {
           "title": "凯撒娱乐（CZR）美股盘后涨超3%。 该公司四季度同店净营收29.2亿美元，分析师预期28.9亿美元。 四季度同店调整后EBITDA为9.01亿美元，分析师预期9.001亿美元。",
@@ -545,17 +569,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
-        },
-        {
-          "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
-          "url": "https://www.cls.cn/detail/2291354",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时14分 ~ 15时59分]"
         },
         {
           "title": "（美股）费城金银指数收跌3.14%，报406.62点。 （全球时段）纽约证交所ARCA金矿开采商指数跌2.83%，报2884.06点，亚太盘初至北京时间22:30窄幅震荡于于2960点附近——维持微幅下跌的状态，美股开盘时“跳空”下挫，23:14刷新日低至2811.85点，随后逐步收复失地。 （美股）原材料指数收跌1.66%，金属与矿业指数收跌1.37%。",
@@ -840,6 +853,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Qwen",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "阿里千问：Qwen 3.5 Plus现在可以在AI Gateway上使用了。",
+          "url": "https://flash.jin10.com/detail/20260218155737801800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         }
       ]
     }
