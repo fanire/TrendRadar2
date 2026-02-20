@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-20T15:43:34.005510+08:00",
-  "total_titles_processed": 1185,
+  "generated_at": "2026-02-20T16:32:36.048116+08:00",
+  "total_titles_processed": 1262,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时16分 ~ 15时43分]"
+          "appearance_count": 7,
+          "time_info": "[09时16分 ~ 16时32分]"
         },
         {
           "title": "特朗普：高市早苗“特别喜欢我”",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时08分 ~ 15时43分]"
+          "appearance_count": 6,
+          "time_info": "[12时08分 ~ 16时32分]"
         },
         {
           "title": "特朗普被曝考虑军事打击伊朗，细节披露",
@@ -50,8 +50,43 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时16分 ~ 16时32分]"
+        },
+        {
+          "title": "奥巴马称外星人确实存在，特朗普：他泄密了",
+          "url": "https://news.ifeng.com/c/8qtImyHlk4E",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时16分 ~ 16时32分]"
+        },
+        {
+          "title": "“和平委员会”首次开会，特朗普警告拒加入国家“勿耍小聪明”",
+          "url": "https://news.ifeng.com/c/8qtXIx1u77H",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时16分 ~ 15时43分]"
+          "time_info": "[12时08分 ~ 16时32分]"
+        },
+        {
+          "title": "特朗普阵营的坚定降息派动摇了？美联储理事米兰：劳动力市场改善可令今年少些降息",
+          "url": "https://wallstreetcn.com/articles/3765884",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时08分 ~ 16时32分]"
         },
         {
           "title": "美国总统特朗普：将指示战争部长及其他相关部门和机构，开始识别和公布与外星人及外星生命相关的政府档案。",
@@ -63,28 +98,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
-        },
-        {
-          "title": "奥巴马称外星人确实存在，特朗普：他泄密了",
-          "url": "https://news.ifeng.com/c/8qtImyHlk4E",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时16分 ~ 15时43分]"
-        },
-        {
-          "title": "“和平委员会”首次开会，特朗普警告拒加入国家“勿耍小聪明”",
-          "url": "https://news.ifeng.com/c/8qtXIx1u77H",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时08分 ~ 15时43分]"
         },
         {
           "title": "美国总统特朗普考虑禁止某些移民家庭住房救助。（BLAW）",
@@ -108,18 +121,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时47分 ~ 15时43分]"
-        },
-        {
-          "title": "特朗普阵营的坚定降息派动摇了？美联储理事米兰：劳动力市场改善可令今年少些降息",
-          "url": "https://wallstreetcn.com/articles/3765884",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时08分 ~ 15时43分]"
         },
         {
           "title": "特朗普宣称：和平委员会获170亿美元加沙援助承诺，多国拟派员参与稳定部队",
@@ -310,6 +311,30 @@
           "time_info": "[03时35分 ~ 04时23分]"
         },
         {
+          "title": "特朗普称奥巴马涉外星人言论泄密",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32634789",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时47分 ~ 16时32分]"
+        },
+        {
+          "title": "特朗普：预计“十天左右”知道能否与伊朗达成协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32634067",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时47分 ~ 16时32分]"
+        },
+        {
           "title": "美国美术委员会一致批准白宫宴会厅项目，特朗普发文感谢",
           "url": "https://flash.jin10.com/detail/20260220015619763800",
           "source": "金十数据",
@@ -336,16 +361,17 @@
           "time_info": "[02时41分 ~ 04时23分]"
         },
         {
-          "title": "特朗普称奥巴马涉外星人言论泄密",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32634789",
-          "source": "澎湃新闻",
+          "title": "对于伊朗和油价，特朗普是“自信过头”还是“姿态做足”？",
+          "url": "https://wallstreetcn.com/articles/3765874",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            9
+            10,
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时47分 ~ 15时43分]"
+          "time_info": "[14时44分 ~ 16时32分]"
         },
         {
           "title": "特朗普签署“和平委员会”财政决议 誓言要整顿加沙",
@@ -385,18 +411,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时09分 ~ 14时44分]"
-        },
-        {
-          "title": "特朗普：预计“十天左右”知道能否与伊朗达成协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32634067",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时47分 ~ 15时43分]"
         },
         {
           "title": "美国总统特朗普：乐意让俄罗斯加入“和平委员会”。",
@@ -457,18 +471,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时23分 ~ 05时26分]"
-        },
-        {
-          "title": "对于伊朗和油价，特朗普是“自信过头”还是“姿态做足”？",
-          "url": "https://wallstreetcn.com/articles/3765874",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时44分 ~ 15时43分]"
         },
         {
           "title": "美国总统特朗普谈及住房经适性，宣称：我们已经解决了这个问题。 正在终结华尔街公司购买住房这个“骗局”。",
@@ -1055,7 +1057,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
@@ -1066,8 +1068,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时51分 ~ 15时43分]"
+          "appearance_count": 10,
+          "time_info": "[06时51分 ~ 16时32分]"
         },
         {
           "title": "美股三大指数高开后悉数转跌，明星科技股普跌，黄金站上5000美元",
@@ -1116,8 +1118,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时42分 ~ 15时43分]"
+          "appearance_count": 17,
+          "time_info": "[00时42分 ~ 16时32分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
@@ -1128,8 +1130,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时42分 ~ 15时43分]"
+          "appearance_count": 17,
+          "time_info": "[00时42分 ~ 16时32分]"
         },
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
@@ -1141,8 +1143,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时08分 ~ 15时43分]"
+          "appearance_count": 6,
+          "time_info": "[12时08分 ~ 16时32分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -1152,8 +1154,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时42分 ~ 15时43分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 16时32分]"
         },
         {
           "title": "金十图示：2026年02月19日（周四）美股热门股票行情一览（美股收盘）",
@@ -1235,6 +1237,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时52分 ~ 07时23分]"
+        },
+        {
+          "title": "一文读懂2026年至今的全球市场：什么在涨？美股为何不行？这种趋势会持续吗？",
+          "url": "https://wallstreetcn.com/articles/3765893",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         }
       ]
     },
@@ -1341,8 +1354,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时08分 ~ 15时43分]"
+          "appearance_count": 6,
+          "time_info": "[12时08分 ~ 16时32分]"
         },
         {
           "title": "谷歌(GOOG.O)：将继续投资于人工智能驱动的防御措施，并为安卓开发者提供构建安全应用所需的工具。",
