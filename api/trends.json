@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T15:38:03.694483+08:00",
-  "total_titles_processed": 1364,
+  "generated_at": "2026-03-05T16:31:52.297758+08:00",
+  "total_titles_processed": 1470,
   "failed_sources": [],
   "trends": [
     {
@@ -101,11 +101,12 @@
           "ranks": [
             10,
             4,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时17分 ~ 15时38分]"
+          "appearance_count": 8,
+          "time_info": "[09时17分 ~ 16时31分]"
         },
         {
           "title": "美国弹药库存告急！特朗普本周将召集军工巨头赴白宫，讨论加快武器生产",
@@ -121,6 +122,18 @@
           "time_info": "[05时27分 ~ 12时05分]"
         },
         {
+          "title": "弹药告急！特朗普将召见军工大佬，筹划掏500亿美元补充军火",
+          "url": "https://news.ifeng.com/c/8rFCPechKEM",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时42分 ~ 16时31分]"
+        },
+        {
           "title": "美以伊战争最新动态｜参议院末能阻止特朗普继续动武",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -132,16 +145,17 @@
           "time_info": "[09时17分 ~ 09时18分]"
         },
         {
-          "title": "弹药告急！特朗普将召见军工大佬，筹划掏500亿美元补充军火",
-          "url": "https://news.ifeng.com/c/8rFCPechKEM",
-          "source": "凤凰网",
+          "title": "西班牙首相回击特朗普",
+          "url": "https://www.douyin.com/hot/2419161",
+          "source": "抖音",
           "ranks": [
-            5,
-            11
+            16,
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时42分 ~ 15时38分]"
+          "appearance_count": 6,
+          "time_info": "[12时05分 ~ 16时31分]"
         },
         {
           "title": "“拒绝战争！”西班牙首相回击特朗普：不会因报复威胁妥协",
@@ -155,19 +169,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时17分 ~ 14时40分]"
-        },
-        {
-          "title": "西班牙首相回击特朗普",
-          "url": "https://www.douyin.com/hot/2419161",
-          "source": "抖音",
-          "ranks": [
-            16,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时05分 ~ 15时38分]"
         },
         {
           "title": "据知情人士透露，美国白宫计划在3月底之前递交关于下一个财年的预算申请。 特朗普政府尤其希望在3月31日当天披露预算报告。（彭博）",
@@ -211,11 +212,12 @@
           "source": "微博",
           "ranks": [
             21,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时40分 ~ 15时38分]"
+          "appearance_count": 4,
+          "time_info": "[14时40分 ~ 16时31分]"
         },
         {
           "title": "特朗普正式提名凯文·沃什担任美联储主席，以接替杰罗姆·鲍威尔",
@@ -516,11 +518,12 @@
           "url": "https://wallstreetcn.com/articles/3766668",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时23分 ~ 15时38分]"
+          "appearance_count": 9,
+          "time_info": "[07时23分 ~ 16时31分]"
         },
         {
           "title": "美股收盘：通胀担忧暂缓、油价持稳 科技股带动大盘重拾升势",
@@ -795,7 +798,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
         },
@@ -856,7 +859,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
         }
