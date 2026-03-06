@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T13:40:21.659992+08:00",
-  "total_titles_processed": 1046,
+  "generated_at": "2026-03-06T14:37:21.007378+08:00",
+  "total_titles_processed": 1128,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 59,
       "titles": [
         {
           "title": "特朗普：若满分10分，我给美对伊行动打15分",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时55分 ~ 13时40分]"
+          "appearance_count": 13,
+          "time_info": "[01时55分 ~ 14时37分]"
         },
         {
           "title": "特朗普“大发战争财”，借打伊朗搞募款",
@@ -46,11 +46,12 @@
           "url": "https://news.ifeng.com/c/8rGUp5Pquod",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时21分 ~ 13时40分]"
+          "appearance_count": 5,
+          "time_info": "[09时21分 ~ 14时37分]"
         },
         {
           "title": "特朗普要求立即赦免以色列总理",
@@ -64,6 +65,18 @@
           "time_info": "[09时21分 ~ 13时40分]"
         },
         {
+          "title": "美国内政部长透露：特朗普政府正考虑“所有方案”来控制油价！",
+          "url": "https://www.cls.cn/detail/2304524",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时21分 ~ 14时37分]"
+        },
+        {
           "title": "特朗普打伊朗，美国国会管不了？参议院未通过叫停特朗普打击伊朗的投票",
           "url": "https://wallstreetcn.com/articles/3766752",
           "source": "华尔街见闻",
@@ -75,27 +88,27 @@
           "time_info": "[01时55分 ~ 06时23分]"
         },
         {
-          "title": "美国内政部长透露：特朗普政府正考虑“所有方案”来控制油价！",
-          "url": "https://www.cls.cn/detail/2304524",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时21分 ~ 13时40分]"
-        },
-        {
           "title": "美以伊战争最新动态｜牧师围着特朗普为他和美军祈祷",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时40分 ~ 14时37分]"
+        },
+        {
+          "title": "美国24州宣布提起诉讼，阻止特朗普最新全球关税政策",
+          "url": "https://www.cls.cn/detail/2304459",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时46分 ~ 14时37分]"
         },
         {
           "title": "美国众议院未能通过阻止特朗普对伊朗动武的决议",
@@ -142,6 +155,17 @@
           "time_info": "06时23分"
         },
         {
+          "title": "印尼政府：总统普拉博沃已向当地伊斯兰团体保证，如果美国总统特朗普的“和平委员会”平台不能为巴勒斯坦人带来利益，他将退出该委员会。",
+          "url": "https://flash.jin10.com/detail/20260306141544711800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
           "title": "美国总统特朗普：伊朗行动进展超预期，不会给出时间表。",
           "url": "https://flash.jin10.com/detail/20260306011731845800",
           "source": "金十数据",
@@ -186,16 +210,15 @@
           "time_info": "06时23分"
         },
         {
-          "title": "美国24州宣布提起诉讼，阻止特朗普最新全球关税政策",
-          "url": "https://www.cls.cn/detail/2304459",
-          "source": "财联社热门",
+          "title": "美国24州联合起诉特朗普政府新关税政策",
+          "url": "https://news.ifeng.com/c/8rGDBDdQi38",
+          "source": "凤凰网",
           "ranks": [
-            11,
-            10
+            11
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[07时46分 ~ 13时40分]"
+          "time_info": "[09时21分 ~ 14时37分]"
         },
         {
           "title": "美国总统特朗普：马克韦恩·穆林（Markwayne Mullin）将于2026年3月31日起担任美国国土安全部部长。",
@@ -258,17 +281,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 07时46分]"
-        },
-        {
-          "title": "美国24州联合起诉特朗普政府新关税政策",
-          "url": "https://news.ifeng.com/c/8rGDBDdQi38",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时21分 ~ 13时40分]"
         },
         {
           "title": "美国总统特朗普：无意动用战略石油储备。（路透社）",
@@ -342,6 +354,17 @@
           "time_info": "[05时26分 ~ 06时23分]"
         },
         {
+          "title": "美国24州联合起诉特朗普政府",
+          "url": "https://www.toutiao.com/trending/7613919843846897683/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时40分 ~ 14时37分]"
+        },
+        {
           "title": "美国总统特朗普：挑选（伊朗）新领导人进程尚处初期，伊朗最高领袖哈梅内伊之子当选可能性不大。",
           "url": "https://flash.jin10.com/detail/20260306011442646800",
           "source": "金十数据",
@@ -392,7 +415,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
         },
@@ -469,7 +492,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
         },
@@ -562,17 +585,6 @@
           "time_info": "12时03分"
         },
         {
-          "title": "美国24州联合起诉特朗普政府",
-          "url": "https://www.toutiao.com/trending/7613919843846897683/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时40分"
-        },
-        {
           "title": "特朗普称希望“彻底清除”伊朗领导层 已有新领导人人选",
           "url": "https://flash.jin10.com/detail/20260306112120691800",
           "source": "金十数据",
@@ -590,7 +602,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
         },
@@ -634,7 +646,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
         },
@@ -689,19 +701,6 @@
           "time_info": "[01时55分 ~ 06时23分]"
         },
         {
-          "title": "油价延续涨势冲击市场 美股三大期指集体走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2304327",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时55分 ~ 13时40分]"
-        },
-        {
           "title": "非农前夜，油价飙升引发通胀担忧，芯片股领跌美股，美债四连跌，美元走强",
           "url": "https://wallstreetcn.com/articles/3766762",
           "source": "华尔街见闻",
@@ -709,8 +708,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时46分 ~ 13时40分]"
+          "appearance_count": 6,
+          "time_info": "[07时46分 ~ 14时37分]"
         },
         {
           "title": "美股收盘：道琼斯指数暴跌近800点，伊朗冲突外溢油价飙升",
@@ -721,8 +720,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时46分 ~ 13时40分]"
+          "appearance_count": 6,
+          "time_info": "[07时46分 ~ 14时37分]"
+        },
+        {
+          "title": "油价延续涨势冲击市场 美股三大期指集体走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2304327",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[01时55分 ~ 14时37分]"
         },
         {
           "title": "道指跌近800点，小盘股指下挫2%，领跌美股基准股指",
@@ -857,8 +869,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时21分 ~ 13时40分]"
+          "appearance_count": 5,
+          "time_info": "[09时21分 ~ 14时37分]"
         },
         {
           "title": "详解OpenAI新模型GPT-5.4",
@@ -869,8 +881,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时02分 ~ 13时40分]"
+          "appearance_count": 4,
+          "time_info": "[12时02分 ~ 14时37分]"
         },
         {
           "title": "OpenAI发布GPT-5.4及GPT-5.4 Pro模型，支持高达100万token的上下文窗口",
@@ -914,7 +926,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
         }
