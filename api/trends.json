@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T16:29:20.864740+08:00",
-  "total_titles_processed": 1338,
+  "generated_at": "2026-03-06T17:31:48.792731+08:00",
+  "total_titles_processed": 1453,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时55分 ~ 16时29分]"
+          "appearance_count": 16,
+          "time_info": "[01时55分 ~ 17时31分]"
+        },
+        {
+          "title": "特朗普妄称“必须亲自参与”选定伊朗新领导人",
+          "url": "https://news.ifeng.com/c/8rGUp5Pquod",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时21分 ~ 17时31分]"
         },
         {
           "title": "特朗普“大发战争财”，借打伊朗搞募款",
@@ -42,18 +54,6 @@
           "time_info": "[01时55分 ~ 07时46分]"
         },
         {
-          "title": "特朗普妄称“必须亲自参与”选定伊朗新领导人",
-          "url": "https://news.ifeng.com/c/8rGUp5Pquod",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时21分 ~ 16时29分]"
-        },
-        {
           "title": "美国内政部长透露：特朗普政府正考虑“所有方案”来控制油价！",
           "url": "https://www.cls.cn/detail/2304524",
           "source": "财联社热门",
@@ -64,8 +64,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时21分 ~ 16时29分]"
+          "appearance_count": 8,
+          "time_info": "[09时21分 ~ 17时31分]"
         },
         {
           "title": "特朗普要求立即赦免以色列总理",
@@ -77,6 +77,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时21分 ~ 13时40分]"
+        },
+        {
+          "title": "美国24州联合起诉特朗普政府新关税政策",
+          "url": "https://news.ifeng.com/c/8rGDBDdQi38",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时21分 ~ 17时31分]"
         },
         {
           "title": "特朗普打伊朗，美国国会管不了？参议院未通过叫停特朗普打击伊朗的投票",
@@ -111,17 +122,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时46分 ~ 15时34分]"
-        },
-        {
-          "title": "美国24州联合起诉特朗普政府新关税政策",
-          "url": "https://news.ifeng.com/c/8rGDBDdQi38",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时21分 ~ 16时29分]"
         },
         {
           "title": "美国众议院未能通过阻止特朗普对伊朗动武的决议",
@@ -298,6 +298,30 @@
           "time_info": "[04时31分 ~ 06时23分]"
         },
         {
+          "title": "伊朗战火下美汽油价格大涨 特朗普：不担心，无意动用战略油储！",
+          "url": "https://www.cls.cn/detail/2304532",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时34分 ~ 17时31分]"
+        },
+        {
+          "title": "特朗普夸梅西强过贝利，还称C罗也很棒！梅西在一旁表情亮了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32711665",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时34分 ~ 17时31分]"
+        },
+        {
           "title": "美国24州联合起诉特朗普政府",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD24%E5%B7%9E%E8%81%94%E5%90%88%E8%B5%B7%E8%AF%89%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -334,16 +358,16 @@
           "time_info": "[03时11分 ~ 04时31分]"
         },
         {
-          "title": "伊朗战火下美汽油价格大涨 特朗普：不担心，无意动用战略油储！",
-          "url": "https://www.cls.cn/detail/2304532",
+          "title": "特朗普承诺护航霍尔木兹 高盛也来“泼冷水”：可行性存疑！",
+          "url": "https://www.cls.cn/detail/2304727",
           "source": "财联社热门",
           "ranks": [
-            11,
-            8
+            10,
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时34分 ~ 16时29分]"
+          "time_info": "[16时29分 ~ 17时31分]"
         },
         {
           "title": "特朗普要求立即赦免以色列总理内塔尼亚胡",
@@ -378,17 +402,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时26分 ~ 06时23分]"
-        },
-        {
-          "title": "特朗普夸梅西强过贝利，还称C罗也很棒！梅西在一旁表情亮了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32711665",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时34分 ~ 16时29分]"
         },
         {
           "title": "美国总统特朗普：挑选（伊朗）新领导人进程尚处初期，伊朗最高领袖哈梅内伊之子当选可能性不大。",
@@ -488,17 +501,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
-        },
-        {
-          "title": "特朗普承诺护航霍尔木兹 高盛也来“泼冷水”：可行性存疑！",
-          "url": "https://www.cls.cn/detail/2304727",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时29分"
         },
         {
           "title": "特朗普要求立即赦免以色列总理",
@@ -720,11 +722,12 @@
           "url": "https://wallstreetcn.com/articles/3766762",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时46分 ~ 16时29分]"
+          "appearance_count": 9,
+          "time_info": "[07时46分 ~ 17时31分]"
         },
         {
           "title": "中东局势打击风险偏好，美股指下跌，纳指跌0.5%，美油涨5%，金银齐跌",
@@ -906,8 +909,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时21分 ~ 16时29分]"
+          "appearance_count": 8,
+          "time_info": "[09时21分 ~ 17时31分]"
         },
         {
           "title": "详解OpenAI新模型GPT-5.4",
@@ -1005,7 +1008,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
