@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T15:24:03.715722+08:00",
-  "total_titles_processed": 1153,
+  "generated_at": "2026-03-07T16:21:25.400076+08:00",
+  "total_titles_processed": 1261,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时53分 ~ 15时24分]"
+          "appearance_count": 9,
+          "time_info": "[11时53分 ~ 16时21分]"
         },
         {
           "title": "反转！报道：特朗普政府搁置财政部“操盘”原油期货的计划",
@@ -160,6 +160,18 @@
           "time_info": "[13时35分 ~ 14时29分]"
         },
         {
+          "title": "奥巴马、拜登“不点名”抨击特朗普政府",
+          "url": "https://news.ifeng.com/c/8rIXypaKu4O",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时29分 ~ 16时21分]"
+        },
+        {
           "title": "美国总统特朗普将于十分钟后会见美国国防部长赫格塞斯。",
           "url": "https://flash.jin10.com/detail/20260307032000001800",
           "source": "金十数据",
@@ -169,18 +181,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时23分 ~ 07时21分]"
-        },
-        {
-          "title": "奥巴马、拜登“不点名”抨击特朗普政府",
-          "url": "https://news.ifeng.com/c/8rIXypaKu4O",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时29分 ~ 15时24分]"
         },
         {
           "title": "消息人士称特朗普对在伊朗部署美地面部队表达“浓厚兴趣”",
@@ -407,8 +407,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时20分 ~ 15时24分]"
+          "appearance_count": 12,
+          "time_info": "[07时20分 ~ 16时21分]"
         },
         {
           "title": "周五（3月6日）纽约尾盘，美国10年期基准国债收益率涨0.19个基点，报4.1383%，北京时间21:30发布美国非农就业报告时跳水至4.1035%刷新日低，随后反弹、在22:38（美股盘初）刷新日高至4.1848%，本周累计上涨20.08个基点，整体持续走高。 两年期美债收益率跌1.59个基点，报3.5605%，本周累涨18.56个基点，整体交投于3.3586%-3.6289%区间。",
