@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-09T19:31:08.993795+08:00",
-  "total_titles_processed": 1595,
+  "generated_at": "2026-03-09T20:41:14.859967+08:00",
+  "total_titles_processed": 1714,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时18分 ~ 19时31分]"
+          "appearance_count": 12,
+          "time_info": "[09时18分 ~ 20时41分]"
         },
         {
           "title": "两会外长会｜王毅谈特朗普访华：今年是中美关系“大年”",
@@ -101,6 +101,17 @@
           "time_info": "[00时19分 ~ 07时17分]"
         },
         {
+          "title": "特朗普回应拉里贾尼威胁",
+          "url": "https://news.ifeng.com/c/8rM7NkGzfDg",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时38分 ~ 20时41分]"
+        },
+        {
           "title": "美媒劝特朗普见好就收",
           "url": "https://news.ifeng.com/c/8rLmtoks9IL",
           "source": "凤凰网",
@@ -125,15 +136,16 @@
           "time_info": "[00时19分 ~ 06时16分]"
         },
         {
-          "title": "特朗普回应拉里贾尼威胁",
-          "url": "https://news.ifeng.com/c/8rM7NkGzfDg",
+          "title": "特朗普：将与以总理共同作出停战决定",
+          "url": "https://news.ifeng.com/c/8rM8XXIvw2a",
           "source": "凤凰网",
           "ranks": [
-            4
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时38分 ~ 19时31分]"
+          "appearance_count": 6,
+          "time_info": "[17时40分 ~ 20时41分]"
         },
         {
           "title": "美以伊战争｜中方回应特朗普威胁伊朗最高领袖",
@@ -167,6 +179,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
+        },
+        {
+          "title": "胡锡进：伊朗成心气特朗普，把一口带血的痰吐他脸上",
+          "url": "https://news.ifeng.com/c/8rM8XXIvw5H",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时40分 ~ 20时41分]"
         },
         {
           "title": "美国总统特朗普：短期内的油价在伊朗核威胁消除后会迅速下降。",
@@ -243,18 +266,6 @@
           "time_info": "[04时17分 ~ 06时16分]"
         },
         {
-          "title": "特朗普：将与以总理共同作出停战决定",
-          "url": "https://news.ifeng.com/c/8rM8XXIvw2a",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时40分 ~ 19时31分]"
-        },
-        {
           "title": "美国驻联合国大使：特朗普总统希望伊朗领导人不会威胁美国或该地区的盟友。",
           "url": "https://flash.jin10.com/detail/20260309010309555800",
           "source": "金十数据",
@@ -277,17 +288,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时19分 ~ 04时17分]"
-        },
-        {
-          "title": "胡锡进：伊朗成心气特朗普，把一口带血的痰吐他脸上",
-          "url": "https://news.ifeng.com/c/8rM8XXIvw5H",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时40分 ~ 19时31分]"
         },
         {
           "title": "美媒使用旧视频掩盖特朗普失礼行为",
@@ -570,7 +570,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
