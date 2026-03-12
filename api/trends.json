@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T22:46:16.051964+08:00",
-  "total_titles_processed": 1981,
+  "generated_at": "2026-03-12T23:51:40.229067+08:00",
+  "total_titles_processed": 2074,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 85,
+      "match_count": 89,
       "titles": [
         {
           "title": "特朗普称将对包括中国在内的贸易伙伴启动新的贸易调查，中方回应",
@@ -32,8 +32,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[06时20分 ~ 22时46分]"
+          "appearance_count": 17,
+          "time_info": "[06时20分 ~ 23时51分]"
         },
         {
           "title": "美以伊战争｜特朗普：与伊朗的战争很快就会结束",
@@ -45,6 +45,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时42分 ~ 06时20分]"
+        },
+        {
+          "title": "中方回应特朗普计划访华",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A1%E5%88%92%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时31分 ~ 23时51分]"
         },
         {
           "title": "特朗普政府成“波动之源”，油价又坐一次“过山车”",
@@ -69,20 +82,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时07分 ~ 22时46分]"
-        },
-        {
-          "title": "中方回应特朗普计划访华",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A1%E5%88%92%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时31分 ~ 22时46分]"
+          "appearance_count": 14,
+          "time_info": "[12时07分 ~ 23时51分]"
         },
         {
           "title": "中方回应特朗普将对华新贸易调查",
@@ -221,6 +222,18 @@
           "time_info": "00时42分"
         },
         {
+          "title": "中方回应特朗普计划访华",
+          "url": "https://www.toutiao.com/trending/7615267437721780267/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时39分 ~ 23时51分]"
+        },
+        {
           "title": "特朗普称对伊朗军事行动“即将结束”，暗示可能打击更多目标，伊方警告美或陷入长期耗损战",
           "url": "https://wallstreetcn.com/articles/3767268",
           "source": "华尔街见闻",
@@ -265,18 +278,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时43分 ~ 04时27分]"
-        },
-        {
-          "title": "中方回应特朗普计划访华",
-          "url": "https://www.toutiao.com/trending/7615267437721780267/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时39分 ~ 22时46分]"
         },
         {
           "title": "市场消息：美国总统特朗普在讲话中称赞了股市达到新高以及401(k)退休福利计划的收益情况。",
@@ -834,7 +835,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时46分"
         },
@@ -867,7 +868,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时46分"
         },
@@ -894,6 +895,17 @@
           "time_info": "06时20分"
         },
         {
+          "title": "美国总统特朗普： 欢迎伊朗国家足球队参加世界杯，但我真的不认为他们在那里是合适的，为了他们自己的生命和安全。",
+          "url": "https://flash.jin10.com/detail/20260312230129668800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
+        },
+        {
           "title": "美国参议院金融委员会主席Mike Crapo发函，要求总统特朗普在接见日本首相高市早苗时，让美国土豆“获得优先市场准入”。",
           "url": "https://wallstreetcn.com/livenews/3068330",
           "source": "华尔街见闻-快讯",
@@ -914,6 +926,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
+        },
+        {
+          "title": "报道：特朗普政府拟暂停《琼斯法案》，从而实现平抑油价",
+          "url": "https://wallstreetcn.com/livenews/3069017",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
         },
         {
           "title": "特朗普谈打击伊朗：我们还没结束。",
@@ -947,6 +970,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
+        },
+        {
+          "title": "特朗普政府拟暂停《琼斯法案》以平抑油价",
+          "url": "https://flash.jin10.com/detail/20260312225537667800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
         },
         {
           "title": "美国总统特朗普：苹果(AAPL.O)CEO库克做得不错。",
@@ -991,6 +1025,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普政府拟暂停《琼斯法案》以平抑油价。",
+          "url": "https://flash.jin10.com/detail/20260312224721728800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
         }
       ]
     },
@@ -1018,8 +1063,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时19分 ~ 22时46分]"
+          "appearance_count": 16,
+          "time_info": "[07时19分 ~ 23时51分]"
         },
         {
           "title": "通胀降温难敌油市恐慌，美股开盘涨跌互现，甲骨文涨超11%，现货白银日内跌幅扩大至3%，原油涨幅收窄",
@@ -1067,8 +1112,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时45分 ~ 22时46分]"
+          "appearance_count": 3,
+          "time_info": "[22时45分 ~ 23时51分]"
         },
         {
           "title": "周四亚太盘初，美国股指期货跌0.3%，摩根士丹利限制私人信用基金的赎回。 摩根士丹利美股盘后跌0.55%。",
