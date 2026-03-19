@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T22:04:42.181468+08:00",
-  "total_titles_processed": 2071,
+  "generated_at": "2026-03-19T23:45:19.680461+08:00",
+  "total_titles_processed": 2196,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
         {
           "title": "特朗普称对伊行动无需北约和日韩澳帮助，伊朗宣告打击进入\"加速阶段\"、总统证实拉里贾尼身亡",
@@ -65,8 +65,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时36分 ~ 22时04分]"
+          "appearance_count": 7,
+          "time_info": "[17时36分 ~ 23时45分]"
+        },
+        {
+          "title": "报告与特朗普开战理由相悖？美情报总监矛盾表态",
+          "url": "https://news.ifeng.com/c/8rchDZPxjNO",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时36分 ~ 23时45分]"
         },
         {
           "title": "外交部：中美双方将继续就特朗普总统访华事保持沟通",
@@ -79,18 +91,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时03分 ~ 07时25分]"
-        },
-        {
-          "title": "报告与特朗普开战理由相悖？美情报总监矛盾表态",
-          "url": "https://news.ifeng.com/c/8rchDZPxjNO",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时36分 ~ 22时04分]"
         },
         {
           "title": "美参议院未通过限制特朗普对伊动武法案，民主党扬言继续施压",
@@ -159,8 +159,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时29分 ~ 22时04分]"
+          "appearance_count": 5,
+          "time_info": "[19时29分 ~ 23时45分]"
         },
         {
           "title": "美以伊战争丨特朗普谈以打击伊朗天然气田：毫不知情",
@@ -237,8 +237,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时36分 ~ 22时04分]"
+          "appearance_count": 5,
+          "time_info": "[17时36分 ~ 23时45分]"
         },
         {
           "title": "被质问为何不谴责美以袭击伊朗？高市早苗语出惊人：因为我要见特朗普",
@@ -252,6 +252,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时22分 ~ 13时53分]"
+        },
+        {
+          "title": "被特朗普抱怨不积极，默茨最新表态",
+          "url": "https://news.ifeng.com/c/8rd2LaEzlmg",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时04分 ~ 23时45分]"
         },
         {
           "title": "美国官员：特朗普暂不想再袭伊朗能源设施",
@@ -314,17 +325,6 @@
           "time_info": "[05时29分 ~ 06时25分]"
         },
         {
-          "title": "被特朗普抱怨不积极，默茨最新表态",
-          "url": "https://news.ifeng.com/c/8rd2LaEzlmg",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时04分"
-        },
-        {
           "title": "美前反恐中心主任辞职后首发声：大量关键意见根本传不到特朗普耳边！",
           "url": "https://flash.jin10.com/detail/20260319171537924800",
           "source": "金十数据",
@@ -364,7 +364,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -397,7 +397,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -455,6 +455,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时30分"
+        },
+        {
+          "title": "被特朗普抱怨不积极，默茨最新表态",
+          "url": "https://wallstreetcn.com/livenews/3073432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
+          "title": "美国参议院委员会批准特朗普提名美国土安全部部长人选",
+          "url": "https://wallstreetcn.com/livenews/3073429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "美媒：特朗普希望以色列暂缓进一步打击伊朗能源设施",
@@ -548,6 +570,18 @@
           "time_info": "[04时30分 ~ 06时25分]"
         },
         {
+          "title": "油价继续飙升 欧美股市承压 黄金白银重挫 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2318602",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时04分 ~ 23时45分]"
+        },
+        {
           "title": "美光科技美股盘后跌幅扩大至6%，该公司工厂开支庞大，掩盖了存储芯片销售的强劲表现。 周四亚太盘初，美国三大股指期货与罗素2000股指期货跌约0.3%。",
           "url": "https://wallstreetcn.com/livenews/3072726",
           "source": "华尔街见闻-快讯",
@@ -559,24 +593,13 @@
           "time_info": "07时25分"
         },
         {
-          "title": "油价继续飙升 欧美股市承压 黄金白银重挫 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2318602",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时04分"
-        },
-        {
           "title": "金十图示：2026年03月19日（周四）美股热门股票行情一览",
           "url": "https://flash.jin10.com/detail/20260319214305796800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -587,7 +610,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -777,11 +800,12 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            18
+            18,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时42分 ~ 22时04分]"
+          "appearance_count": 3,
+          "time_info": "[20时42分 ~ 23时45分]"
         }
       ]
     },
