@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T17:36:35.791987+08:00",
-  "total_titles_processed": 1625,
+  "generated_at": "2026-03-19T18:32:45.014397+08:00",
+  "total_titles_processed": 1732,
   "failed_sources": [],
   "trends": [
     {
@@ -128,6 +128,28 @@
           "time_info": "[00时03分 ~ 14时48分]"
         },
         {
+          "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
+          "url": "https://news.ifeng.com/c/8rckc3J46aj",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时36分 ~ 18时32分]"
+        },
+        {
+          "title": "报告与特朗普开战理由相悖？美情报总监矛盾表态",
+          "url": "https://news.ifeng.com/c/8rchDZPxjNO",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时36分 ~ 18时32分]"
+        },
+        {
           "title": "美以伊战争丨特朗普谈以打击伊朗天然气田：毫不知情",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -150,15 +172,15 @@
           "time_info": "03时44分"
         },
         {
-          "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
-          "url": "https://news.ifeng.com/c/8rckc3J46aj",
+          "title": "高市早苗访美与特朗普如何“面对面”？",
+          "url": "https://news.ifeng.com/c/8rcWUf1wYvu",
           "source": "凤凰网",
           "ranks": [
-            3
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时36分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时41分 ~ 18时32分]"
         },
         {
           "title": "法国总统马克龙：刚刚与卡塔尔埃米尔和特朗普通话，讨论了当天针对伊朗和卡塔尔天然气生产设施的袭击事件。各方的共同利益在于，应立即实施暂停针对民用基础设施（尤其是能源和供水基础设施）的打击行动。",
@@ -183,17 +205,6 @@
           "time_info": "07时25分"
         },
         {
-          "title": "报告与特朗普开战理由相悖？美情报总监矛盾表态",
-          "url": "https://news.ifeng.com/c/8rchDZPxjNO",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时36分"
-        },
-        {
           "title": "消息人士：特朗普政府预计将很快取消夏季汽油法规，以抑制能源价格。",
           "url": "https://flash.jin10.com/detail/20260319015210394800",
           "source": "金十数据",
@@ -203,17 +214,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
-        },
-        {
-          "title": "高市早苗访美与特朗普如何“面对面”？",
-          "url": "https://news.ifeng.com/c/8rcWUf1wYvu",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时41分 ~ 17时36分]"
         },
         {
           "title": "被质问为何不谴责美以袭击伊朗？高市早苗语出惊人：因为我要见特朗普",
@@ -295,7 +295,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
         },
@@ -306,7 +306,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
         },
@@ -630,6 +630,34 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "宇树科技王兴兴：人形机器人今年年中跑赢人类，具身智能“ChatGPT时刻”还需2-3年",
+          "url": "https://www.cls.cn/detail/2316519",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时03分"
+        },
+        {
+          "title": "韩媒：三星电子将向OpenAI供应HBM4芯片",
+          "url": "https://flash.jin10.com/detail/20260319180042311800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -675,23 +703,6 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时03分 ~ 15时42分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "宇树科技王兴兴：人形机器人今年年中跑赢人类，具身智能“ChatGPT时刻”还需2-3年",
-          "url": "https://www.cls.cn/detail/2316519",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
         }
       ]
     }
