@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T19:36:43.081937+08:00",
-  "total_titles_processed": 1802,
+  "generated_at": "2026-03-25T20:46:38.192920+08:00",
+  "total_titles_processed": 1904,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时24分 ~ 19时36分]"
+          "appearance_count": 13,
+          "time_info": "[07时24分 ~ 20时46分]"
         },
         {
           "title": "【早报】美方提出含“15项条件”的和谈方案，特朗普：伊朗同意“永不拥核”；日本拟将中日关系定位降级，中方回应",
@@ -115,6 +115,19 @@
           "time_info": "[00时58分 ~ 09时21分]"
         },
         {
+          "title": "特朗普称已向伊朗提出和平方案，中方回应",
+          "url": "https://www.cls.cn/detail/2324238",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时40分 ~ 20时46分]"
+        },
+        {
           "title": "美CIA前局长：比起特朗普，更相信伊朗",
           "url": "https://news.ifeng.com/c/8rm8Wgr5b4i",
           "source": "凤凰网",
@@ -137,17 +150,18 @@
           "time_info": "[00时58分 ~ 07时24分]"
         },
         {
-          "title": "特朗普称已向伊朗提出和平方案，中方回应",
-          "url": "https://www.cls.cn/detail/2324238",
+          "title": "特朗普支持率创新低！连海湖庄园“后院”都正“由红变蓝”？",
+          "url": "https://www.cls.cn/detail/2324118",
           "source": "财联社热门",
           "ranks": [
-            7,
-            2,
-            1
+            10,
+            8,
+            5,
+            3
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[16时40分 ~ 19时36分]"
+          "time_info": "[17时45分 ~ 20时46分]"
         },
         {
           "title": "特朗普一句话搅动市场风雨：亚太股市普遍高开 国际油价大幅下跌",
@@ -211,6 +225,19 @@
           "time_info": "[15时48分 ~ 19时36分]"
         },
         {
+          "title": "又赢了？特朗普声称已实现伊朗的政权更迭，“他们还同意放弃拥核”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32827122",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时40分 ~ 20时46分]"
+        },
+        {
           "title": "美国前中情局局长：比起特朗普我更信伊朗",
           "url": "https://flash.jin10.com/detail/20260325002638492800",
           "source": "金十数据",
@@ -255,19 +282,6 @@
           "time_info": "07时24分"
         },
         {
-          "title": "特朗普支持率创新低！连海湖庄园“后院”都正“由红变蓝”？",
-          "url": "https://www.cls.cn/detail/2324118",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时45分 ~ 19时36分]"
-        },
-        {
           "title": "美国总统特朗普：美国国务卿鲁比奥、副总统范斯和其他人正在与伊朗进行谈判。",
           "url": "https://flash.jin10.com/detail/20260325022938356800",
           "source": "金十数据",
@@ -290,16 +304,15 @@
           "time_info": "02时52分"
         },
         {
-          "title": "又赢了？特朗普声称已实现伊朗的政权更迭，“他们还同意放弃拥核”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32827122",
-          "source": "澎湃新闻",
+          "title": "伊朗喊话特朗普：美国在中东地区的投资将不复存在",
+          "url": "https://news.ifeng.com/c/8rmg1K8OuB2",
+          "source": "凤凰网",
           "ranks": [
-            20,
-            18
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时40分 ~ 19时36分]"
+          "appearance_count": 4,
+          "time_info": "[18时40分 ~ 20时46分]"
         },
         {
           "title": "【美第82空降师约3000人将赴中东】3月24日，美国第82空降师部分部队即将部署至中东地区。目前相关命令正在制定中，预计将在接到指令后迅速出发。消息称，此次调动将包括地面作战部队及负责后勤与作战规划的指挥单元。第82空降师常备一支约3000人的“即时反应部队”，可在约18小时内部署至全球任一地区。该部队隶属于轻步兵编制，擅长通过空降方式快速进入争议地区执行任务，驻地位于北卡罗来纳州布拉格堡。3月24日，白宫表示，在总统特朗普考虑外交选项的同时，美国对伊朗的军事行动仍在“持续进行、未有减弱”。(央视新闻)",
@@ -326,27 +339,17 @@
           "time_info": "[06时23分 ~ 07时24分]"
         },
         {
-          "title": "伊朗喊话特朗普：美国在中东地区的投资将不复存在",
-          "url": "https://news.ifeng.com/c/8rmg1K8OuB2",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时40分 ~ 19时36分]"
-        },
-        {
           "title": "伊朗喊话特朗普：美国已“战略失败”",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%96%8A%E8%AF%9D%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%B7%B2%E2%80%9C%E6%88%98%E7%95%A5%E5%A4%B1%E8%B4%A5%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
             29,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时40分 ~ 19时36分]"
+          "appearance_count": 4,
+          "time_info": "[18时40分 ~ 20时46分]"
         },
         {
           "title": "美国前中情局局长：比起特朗普我更信伊朗",
@@ -401,7 +404,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时36分"
         },
@@ -722,11 +725,12 @@
             22,
             20,
             16,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时12分 ~ 19时36分]"
+          "appearance_count": 10,
+          "time_info": "[12时12分 ~ 20时46分]"
         },
         {
           "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
@@ -1037,20 +1041,8 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 25,
+      "match_count": 29,
       "titles": [
-        {
-          "title": "地缘信号反复切换，美股收跌、但盘后大涨，原油盘后抹平日内涨幅，美软件ETF日内跌超4%",
-          "url": "https://wallstreetcn.com/articles/3768212",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时20分 ~ 19时36分]"
-        },
         {
           "title": "美伊“撕扯”全球市场，美股反弹，美债巨震，原油暴跌10%，黄金九连跌",
           "url": "https://wallstreetcn.com/articles/3768110",
@@ -1062,6 +1054,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时58分 ~ 07时24分]"
+        },
+        {
+          "title": "地缘信号反复切换，美股收跌、但盘后大涨，原油盘后抹平日内涨幅，美软件ETF日内跌超4%",
+          "url": "https://wallstreetcn.com/articles/3768212",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[09时20分 ~ 20时46分]"
         },
         {
           "title": "伊朗战火与信贷危机双重夹击，美股盘初走低，科技股下跌，现货黄金跌幅收窄，布油涨约2%",
@@ -1138,8 +1143,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时45分 ~ 19时36分]"
+          "appearance_count": 5,
+          "time_info": "[17时45分 ~ 20时46分]"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-03-25）",
+          "url": "https://flash.jin10.com/detail/20260325203424805800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "网络股指数ETF收跌超2.3%，领跌美股行业ETF，标普能源板块涨2%",
@@ -1249,6 +1265,17 @@
           "time_info": "06时23分"
         },
         {
+          "title": "拼多多美股盘前涨超4%，此前一度跌近3%。",
+          "url": "https://wallstreetcn.com/livenews/3076682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
           "title": "美元指数周二涨约0.3%，美股收盘后急剧跳水，日元美股盘后瞬间拉升",
           "url": "https://wallstreetcn.com/livenews/3076170",
           "source": "华尔街见闻-快讯",
@@ -1258,6 +1285,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
+        },
+        {
+          "title": "美伊谈判消息提振市场 美股期指大涨 油价重挫 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2324750",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "金十图示：2026年03月24日（周二）美股热门股票行情一览（美股收盘）",
@@ -1321,7 +1359,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时36分"
         },
@@ -1335,6 +1373,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
+        },
+        {
+          "title": "拼多多(PDD.O)美股盘前涨超4%，此前一度跌近3%。",
+          "url": "https://flash.jin10.com/detail/20260325201833788800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         }
       ]
     },
