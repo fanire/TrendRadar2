@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T19:36:56.307781+08:00",
-  "total_titles_processed": 1746,
+  "generated_at": "2026-03-27T20:43:24.003723+08:00",
+  "total_titles_processed": 1854,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 80,
+      "match_count": 81,
       "titles": [
         {
           "title": "担心特朗普叫停，内塔尼亚胡下令猛炸伊朗",
@@ -43,8 +43,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[03时52分 ~ 19时36分]"
+          "appearance_count": 14,
+          "time_info": "[03时52分 ~ 20时43分]"
         },
         {
           "title": "特朗普称将在5月中旬访华，外交部：中美就此事保持着沟通",
@@ -63,6 +63,21 @@
           "time_info": "[00时04分 ~ 15时55分]"
         },
         {
+          "title": "大摩数据印证特朗普口中“大礼” ：霍尔木兹海峡流量正明显增加",
+          "url": "https://www.cls.cn/detail/2326560",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时28分 ~ 20时43分]"
+        },
+        {
           "title": "特朗普何时再“TACO”？华尔街发现规律：美油逼近100美元 or 美债收益率4.5%",
           "url": "https://wallstreetcn.com/articles/3768442",
           "source": "华尔街见闻",
@@ -79,21 +94,6 @@
           "time_info": "[00时04分 ~ 14时17分]"
         },
         {
-          "title": "大摩数据印证特朗普口中“大礼” ：霍尔木兹海峡流量正明显增加",
-          "url": "https://www.cls.cn/detail/2326560",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时28分 ~ 19时36分]"
-        },
-        {
           "title": "中方回应特朗普称5月中旬访华",
           "url": "https://www.toutiao.com/trending/7621462030418972210/",
           "source": "今日头条",
@@ -105,6 +105,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时04分 ~ 07时27分]"
+        },
+        {
+          "title": "特朗普推迟十天打击伊朗能源设施，最后期限延至4月6日，称美伊谈判“非常顺利”",
+          "url": "https://wallstreetcn.com/articles/3768510",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时26分 ~ 20时43分]"
         },
         {
           "title": "伊朗战争还将持续多久？据传特朗普希望4-6周内终结战事",
@@ -152,19 +165,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时04分 ~ 09时26分]"
-        },
-        {
-          "title": "特朗普推迟十天打击伊朗能源设施，最后期限延至4月6日，称美伊谈判“非常顺利”",
-          "url": "https://wallstreetcn.com/articles/3768510",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时26分 ~ 19时36分]"
         },
         {
           "title": "美元纸币将印上特朗普签名",
@@ -399,6 +399,18 @@
           "time_info": "[04时29分 ~ 05时24分]"
         },
         {
+          "title": "美钞将印上特朗普签名，打破165年来的传统",
+          "url": "https://www.cls.cn/detail/2326823",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时46分 ~ 20时43分]"
+        },
+        {
           "title": "美伊极致拉扯：特朗普称收到“大礼”，再推迟10天打击能源设施！",
           "url": "https://www.cls.cn/detail/2326367",
           "source": "财联社热门",
@@ -410,18 +422,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时28分 ~ 16时42分]"
-        },
-        {
-          "title": "美钞将印上特朗普签名，打破165年来的传统",
-          "url": "https://www.cls.cn/detail/2326823",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时46分 ~ 19时36分]"
         },
         {
           "title": "特朗普揭晓所谓伊朗“大礼”",
@@ -464,7 +464,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时36分"
         },
@@ -500,6 +500,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时17分"
+        },
+        {
+          "title": "不讲武德！特朗普偏爱“休市”时搞大动作，这周末又要“收割”了？",
+          "url": "https://flash.jin10.com/detail/20260327202039334800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         },
         {
           "title": "美元纸币将印上特朗普签名",
@@ -946,19 +957,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时26分 ~ 19时36分]"
-        },
-        {
-          "title": "美伊和谈陷入僵局，美股低开高走，纳指跌0.8%，布油突破100美元，现货金银跳水",
-          "url": "https://wallstreetcn.com/articles/3768430",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时04分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[09时26分 ~ 20时43分]"
         },
         {
           "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
@@ -971,8 +971,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时28分 ~ 19时36分]"
+          "appearance_count": 8,
+          "time_info": "[12时28分 ~ 20时43分]"
+        },
+        {
+          "title": "美伊和谈陷入僵局，美股低开高走，纳指跌0.8%，布油突破100美元，现货金银跳水",
+          "url": "https://wallstreetcn.com/articles/3768430",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 06时20分]"
         },
         {
           "title": "【早报】深夜巨震：油价狂飙，美股、金银齐跳水；美方被曝正酝酿针对伊朗的“最后一击”",
@@ -1028,9 +1039,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时36分 ~ 20时43分]"
         },
         {
           "title": "金十图示：2026年03月26日（周四）热门中概股行情一览（美股收盘）",
@@ -1105,6 +1116,18 @@
           "time_info": "[17时46分 ~ 18时40分]"
         },
         {
+          "title": "美股期货走低，纳斯达克100指数期货跌0.7%，标普500指数期货跌0.5%，道指期货跌0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3078195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时36分 ~ 20时43分]"
+        },
+        {
           "title": "美股收盘：纳指跌超2% 英伟达跌4%",
           "url": "https://flash.jin10.com/detail/20260327040147808800",
           "source": "金十数据",
@@ -1114,17 +1137,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
-        },
-        {
-          "title": "美股期货走低，纳斯达克100指数期货跌0.7%，标普500指数期货跌0.5%，道指期货跌0.4%。",
-          "url": "https://wallstreetcn.com/livenews/3078195",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时36分"
         },
         {
           "title": "美股标普纳指创开战后最大单日跌幅",
@@ -1185,11 +1197,12 @@
             13,
             20,
             17,
-            11
+            11,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时26分 ~ 19时36分]"
+          "appearance_count": 9,
+          "time_info": "[09时26分 ~ 20时43分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -1201,11 +1214,12 @@
             2,
             5,
             16,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时28分 ~ 19时36分]"
+          "appearance_count": 8,
+          "time_info": "[12时28分 ~ 20时43分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -1219,8 +1233,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时17分 ~ 19时36分]"
+          "appearance_count": 7,
+          "time_info": "[14时17分 ~ 20时43分]"
         },
         {
           "title": "谷歌母公司Alphabet跌幅迅速扩大至4.3%。",
@@ -1465,6 +1479,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[06时20分 ~ 14时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Claude",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "钉钉CLI开源，首批开放10项核心产品能力，原生支持ClaudeCode、Cursor、Qoder",
+          "url": "https://wallstreetcn.com/livenews/3078231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         }
       ]
     }
