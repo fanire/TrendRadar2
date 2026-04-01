@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T19:02:36.469798+08:00",
-  "total_titles_processed": 1629,
+  "generated_at": "2026-04-01T20:59:20.416135+08:00",
+  "total_titles_processed": 1781,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 84,
+      "match_count": 88,
       "titles": [
         {
           "title": "特朗普的“退出路线图”浮现：愿意先结束战争，重开霍尔木兹就交给欧洲和海湾盟友",
@@ -51,8 +51,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时27分 ~ 19时02分]"
+          "appearance_count": 11,
+          "time_info": "[07时27分 ~ 20时59分]"
         },
         {
           "title": "特朗普：各国应自行去霍尔木兹海峡“抢石油”",
@@ -146,17 +146,6 @@
           "time_info": "[09时48分 ~ 16时11分]"
         },
         {
-          "title": "特朗普给伊朗“划红线”",
-          "url": "https://news.ifeng.com/c/8rvXSKYsnyO",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 06时27分]"
-        },
-        {
           "title": "特朗普称将在“两到三周”内结束伊朗战事 霍尔木兹海峡由他国自行解决",
           "url": "https://wallstreetcn.com/articles/3768931",
           "source": "华尔街见闻",
@@ -167,8 +156,19 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时48分 ~ 20时59分]"
+        },
+        {
+          "title": "特朗普给伊朗“划红线”",
+          "url": "https://news.ifeng.com/c/8rvXSKYsnyO",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[09时48分 ~ 19时02分]"
+          "time_info": "[00时01分 ~ 06时27分]"
         },
         {
           "title": "特朗普围伊“救”俄",
@@ -218,6 +218,17 @@
           "time_info": "[00时01分 ~ 05时31分]"
         },
         {
+          "title": "马克龙访日暗讽特朗普",
+          "url": "https://news.ifeng.com/c/8ryL3cEUkYR",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 20时59分]"
+        },
+        {
           "title": "美以伊战争丨特朗普：不达成协议也能结束战争",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -251,17 +262,6 @@
           "time_info": "06时27分"
         },
         {
-          "title": "马克龙访日暗讽特朗普",
-          "url": "https://news.ifeng.com/c/8ryL3cEUkYR",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
           "title": "美国总统特朗普：美联储主席鲍威尔必须尽快离职。",
           "url": "https://flash.jin10.com/detail/20260401055745078800",
           "source": "金十数据",
@@ -293,6 +293,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
+        },
+        {
+          "title": "获美国总统特朗普之子支持的无人机公司正游说阿联酋达成武器交易。",
+          "url": "https://flash.jin10.com/detail/20260401204109725800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         },
         {
           "title": "特朗普称将在“两到三周”内结束伊朗战事",
@@ -389,6 +400,18 @@
           "time_info": "[12时42分 ~ 16时11分]"
         },
         {
+          "title": "美国将结束打击伊朗？特朗普：两三周内撤离，霍尔木兹海峡通航问题与美无关",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32869664",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时01分 ~ 20时59分]"
+        },
+        {
           "title": "特朗普：各国应自行去霍尔木兹海峡“抢石油”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32867877",
           "source": "澎湃新闻",
@@ -399,18 +422,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时42分 ~ 14时32分]"
-        },
-        {
-          "title": "美国将结束打击伊朗？特朗普：两三周内撤离，霍尔木兹海峡通航问题与美无关",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32869664",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时01分 ~ 19时02分]"
         },
         {
           "title": "特朗普被曝希望快速结束战争",
@@ -701,6 +712,17 @@
           "time_info": "07时28分"
         },
         {
+          "title": "外媒：特朗普正“认真考虑”让美国退出北约",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32871533",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
           "title": "教皇利奥表示，他希望美国总统特朗普在与伊朗的战争中能找到“退路”。",
           "url": "https://flash.jin10.com/detail/20260401023744143800",
           "source": "金十数据",
@@ -710,6 +732,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
+        },
+        {
+          "title": "英国首相回应特朗普要退出北约",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E9%80%80%E5%87%BA%E5%8C%97%E7%BA%A6%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         },
         {
           "title": "特朗普将发表全国讲话，就伊朗问题发布“重要更新”",
@@ -729,7 +762,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -743,6 +776,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "特朗普称将出席美最高法院“出生公民权”听证会口头辩论",
+          "url": "https://wallstreetcn.com/livenews/3080901",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         },
         {
           "title": "特朗普称伊朗战争将很快结束 霍尔木兹海峡会“自动开放”",
@@ -927,7 +971,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -960,7 +1004,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         }
@@ -968,7 +1012,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "美伊均释放结束中东冲突意愿，美股大涨、纳指飙升近4%，原油重挫，金银大涨",
@@ -978,8 +1022,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时27分 ~ 19时02分]"
+          "appearance_count": 11,
+          "time_info": "[07时27分 ~ 20时59分]"
         },
         {
           "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
@@ -991,8 +1035,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时27分 ~ 19时02分]"
+          "appearance_count": 12,
+          "time_info": "[06时27分 ~ 20时59分]"
         },
         {
           "title": "特朗普释放停战信号，美股指涨幅扩大，纳指涨逾2%，房利美、房地美涨超10%，金银油齐涨",
@@ -1132,6 +1176,17 @@
           "time_info": "[05时31分 ~ 06时27分]"
         },
         {
+          "title": "美元指数短线小幅走低，现报99.51。美股期货短线小幅走低，纳斯达克100指数期货涨幅收窄至0.9%。美国10年期国债收益率短线拉升，现报4.292%。现货黄金短线拉升约7美元，现报4743.31美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3080918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
           "title": "美股暴涨 三大股指悉数收高",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%9A%B4%E6%B6%A8+%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E6%82%89%E6%95%B0%E6%94%B6%E9%AB%98",
           "source": "百度热搜",
@@ -1231,6 +1286,17 @@
           "time_info": "01时18分"
         },
         {
+          "title": "美国3月ADP就业数据公布后，美元指数、美股期货短线波动不大",
+          "url": "https://wallstreetcn.com/livenews/3080904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
           "title": "美股三大股指集体收涨纳指涨超3.8%",
           "url": "https://www.toutiao.com/trending/7623563069813165609/",
           "source": "今日头条",
@@ -1240,6 +1306,148 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "交易员称美股本轮劲扬主要由空头回补所致 并非伊朗和平前景",
+          "url": "https://wallstreetcn.com/livenews/3080893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Claude",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "如何看待 Anthropic 官方工具 Claude Code 源码泄露事件？",
+          "url": "https://www.zhihu.com/question/2022394365436248248",
+          "source": "知乎",
+          "ranks": [
+            4,
+            2,
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 09时48分]"
+        },
+        {
+          "title": "史诗级泄露！51.2万行，Claude Code源代码开源了！",
+          "url": "https://wallstreetcn.com/articles/3768915",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[07时27分 ~ 20时59分]"
+        },
+        {
+          "title": "Claude Code源码意外泄露",
+          "url": "https://search.bilibili.com/all?keyword=Claude%20Code%E6%BA%90%E7%A0%81%E6%84%8F%E5%A4%96%E6%B3%84%E9%9C%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            4,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时01分 ~ 07时28分]"
+        },
+        {
+          "title": "UP主复现Claude Code代码漏洞",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%8E%B0Claude%20Code%E4%BB%A3%E7%A0%81%E6%BC%8F%E6%B4%9E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            4,
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时11分 ~ 20时59分]"
+        },
+        {
+          "title": "深度解析Claude源码泄漏",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90Claude%E6%BA%90%E7%A0%81%E6%B3%84%E6%BC%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            28,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时48分 ~ 16时11分]"
+        },
+        {
+          "title": "ClaudeCode源码泄露",
+          "url": "https://www.douyin.com/hot/2451216",
+          "source": "抖音",
+          "ranks": [
+            8,
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时11分 ~ 20时59分]"
+        },
+        {
+          "title": "从泄露源码扒出Claude隐藏彩蛋",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E6%B3%84%E9%9C%B2%E6%BA%90%E7%A0%81%E6%89%92%E5%87%BAClaude%E9%9A%90%E8%97%8F%E5%BD%A9%E8%9B%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
+          "title": "UP主让Claude Code进行自修复",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%AE%A9Claude%20Code%E8%BF%9B%E8%A1%8C%E8%87%AA%E4%BF%AE%E5%A4%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        },
+        {
+          "title": "Claude Code源码分析与复刻实现",
+          "url": "https://search.bilibili.com/all?keyword=Claude%20Code%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E4%B8%8E%E5%A4%8D%E5%88%BB%E5%AE%9E%E7%8E%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
+          "title": "Anthropic意外泄露了Claude AI智能体的源代码",
+          "url": "https://wallstreetcn.com/livenews/3080773",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         }
       ]
     },
@@ -1338,113 +1546,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Claude",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "如何看待 Anthropic 官方工具 Claude Code 源码泄露事件？",
-          "url": "https://www.zhihu.com/question/2022394365436248248",
-          "source": "知乎",
-          "ranks": [
-            4,
-            2,
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时01分 ~ 09时48分]"
-        },
-        {
-          "title": "史诗级泄露！51.2万行，Claude Code源代码开源了！",
-          "url": "https://wallstreetcn.com/articles/3768915",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时27分 ~ 19时02分]"
-        },
-        {
-          "title": "Claude Code源码意外泄露",
-          "url": "https://search.bilibili.com/all?keyword=Claude%20Code%E6%BA%90%E7%A0%81%E6%84%8F%E5%A4%96%E6%B3%84%E9%9C%B2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            4,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 07时28分]"
-        },
-        {
-          "title": "UP主复现Claude Code代码漏洞",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%8E%B0Claude%20Code%E4%BB%A3%E7%A0%81%E6%BC%8F%E6%B4%9E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时11分 ~ 19时02分]"
-        },
-        {
-          "title": "深度解析Claude源码泄漏",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90Claude%E6%BA%90%E7%A0%81%E6%B3%84%E6%BC%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            28,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时48分 ~ 16时11分]"
-        },
-        {
-          "title": "ClaudeCode源码泄露",
-          "url": "https://www.douyin.com/hot/2451216",
-          "source": "抖音",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时11分 ~ 19时02分]"
-        },
-        {
-          "title": "UP主让Claude Code进行自修复",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%AE%A9Claude%20Code%E8%BF%9B%E8%A1%8C%E8%87%AA%E4%BF%AE%E5%A4%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        },
-        {
-          "title": "Anthropic意外泄露了Claude AI智能体的源代码",
-          "url": "https://wallstreetcn.com/livenews/3080773",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时02分"
         }
       ]
     },
