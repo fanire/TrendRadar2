@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T16:18:04.162161+08:00",
-  "total_titles_processed": 1299,
+  "generated_at": "2026-04-10T18:13:23.064242+08:00",
+  "total_titles_processed": 1456,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 57,
       "titles": [
         {
           "title": "脆弱的停火：以色列依旧“搅屎棍”，特朗普还是“来回变”",
@@ -72,6 +72,18 @@
           "time_info": "[00时58分 ~ 09时31分]"
         },
         {
+          "title": "以总理指示尽快启动与黎巴嫩直接谈判，特朗普要求以减少袭黎，伊朗称为再发生冲突做好准备",
+          "url": "https://wallstreetcn.com/articles/3769619",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时31分 ~ 18时13分]"
+        },
+        {
           "title": "美伊“火药味”又浓了？关于霍尔木兹，特朗普和伊朗最高领袖分别说……",
           "url": "https://www.cls.cn/detail/2339900",
           "source": "财联社热门",
@@ -79,18 +91,6 @@
             5,
             2,
             1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时31分 ~ 16时18分]"
-        },
-        {
-          "title": "以总理指示尽快启动与黎巴嫩直接谈判，特朗普要求以减少袭黎，伊朗称为再发生冲突做好准备",
-          "url": "https://wallstreetcn.com/articles/3769619",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -390,6 +390,28 @@
           "time_info": "07时32分"
         },
         {
+          "title": "特朗普真要从欧洲撤走美军？白宫称“在商讨”",
+          "url": "https://news.ifeng.com/c/8sDAVEwvCNz",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
+          "title": "格陵兰岛总理回应特朗普：我们不是一块冰",
+          "url": "https://news.ifeng.com/c/8sClfHB09mn",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
           "title": "特朗普：伊朗在海峡石油运输方面表现得非常糟糕",
           "url": "https://flash.jin10.com/detail/20260410063238426800",
           "source": "金十数据",
@@ -489,6 +511,17 @@
           "time_info": "03时01分"
         },
         {
+          "title": "特朗普对鲤鱼宣战",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%B2%A4%E9%B1%BC%E5%AE%A3%E6%88%98%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
           "title": "据NBC新闻：特朗普表示，以色列正在缩减在黎巴嫩的行动。",
           "url": "https://flash.jin10.com/detail/20260410012026431800",
           "source": "金十数据",
@@ -586,6 +619,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "特朗普要撤军？白宫称“在商讨”",
+          "url": "https://wallstreetcn.com/livenews/3085748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         },
         {
           "title": "据NBC新闻：特朗普表示，乐观地认为伊朗和平协议指日可待。",
@@ -749,7 +793,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
         }
@@ -900,8 +944,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时31分 ~ 16时18分]"
+          "appearance_count": 7,
+          "time_info": "[09时31分 ~ 18时13分]"
         }
       ]
     }
