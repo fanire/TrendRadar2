@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T17:33:43.780104+08:00",
-  "total_titles_processed": 1167,
+  "generated_at": "2026-04-11T18:26:23.319414+08:00",
+  "total_titles_processed": 1230,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时14分 ~ 17时33分]"
+          "appearance_count": 9,
+          "time_info": "[12时14分 ~ 18时26分]"
         },
         {
           "title": "美伊谈判倒计时！特朗普：若谈不拢将加大打击 霍尔木兹将很快重开",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时24分 ~ 17时33分]"
+          "appearance_count": 10,
+          "time_info": "[09时24分 ~ 18时26分]"
         },
         {
           "title": "特朗普：谈判结果24小时内明朗",
@@ -67,20 +67,6 @@
           "time_info": "[00时58分 ~ 09时24分]"
         },
         {
-          "title": "特朗普称若未达成协议 将加大对伊朗军事打击 | 环球市场",
-          "url": "https://www.cls.cn/detail/2341138",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时28分 ~ 17时33分]"
-        },
-        {
           "title": "无视特朗普力挺！“大空头”伯里放话：Palantir股价腰斩都不够",
           "url": "https://www.cls.cn/detail/2341106",
           "source": "财联社热门",
@@ -91,8 +77,23 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时28分 ~ 17时33分]"
+          "appearance_count": 11,
+          "time_info": "[07时28分 ~ 18时26分]"
+        },
+        {
+          "title": "特朗普称若未达成协议 将加大对伊朗军事打击 | 环球市场",
+          "url": "https://www.cls.cn/detail/2341138",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8,
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[07时28分 ~ 18时26分]"
         },
         {
           "title": "泰前总理佩通坦：骗子模仿特朗普让我捐款，我差点信了",
@@ -486,11 +487,12 @@
           "ranks": [
             13,
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时55分 ~ 17时33分]"
+          "appearance_count": 8,
+          "time_info": "[13时55分 ~ 18时26分]"
         },
         {
           "title": "OpenAI 创始人奥尔特曼住所遭燃烧瓶袭击，具体是怎么回事？",
@@ -499,9 +501,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时33分 ~ 18时26分]"
         },
         {
           "title": "美国白宫针对未来即将面世的一系列AI模型协调网络响应。 白宫准备回应Anthropic与OpenAI的诸多模型。（华尔街日报）",
@@ -625,8 +627,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时28分 ~ 17时33分]"
+          "appearance_count": 11,
+          "time_info": "[07时28分 ~ 18时26分]"
         },
         {
           "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股收盘）",
@@ -658,11 +660,12 @@
           "source": "微博",
           "ranks": [
             12,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时44分 ~ 17时33分]"
+          "appearance_count": 6,
+          "time_info": "[15时44分 ~ 18时26分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 Coreweave涨超10%",
@@ -700,6 +703,17 @@
           "time_info": "[00时58分 ~ 01时53分]"
         },
         {
+          "title": "李大霄解读美股单周表现",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E5%8D%95%E5%91%A8%E8%A1%A8%E7%8E%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时33分 ~ 18时26分]"
+        },
+        {
           "title": "周五（4月10日），美股行业ETF多数收跌，生物科技指数ETF跌1.62%，医疗业ETF、区域银行ETF至少跌1.3%，能源业ETF跌0.68%，科技行业ETF则收涨0.39%，半导体ETF涨1.53%——继续创收盘历史新高。",
           "url": "https://wallstreetcn.com/livenews/3086084",
           "source": "华尔街见闻-快讯",
@@ -710,17 +724,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时01分 ~ 05时31分]"
-        },
-        {
-          "title": "李大霄解读美股单周表现",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E5%8D%95%E5%91%A8%E8%A1%A8%E7%8E%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时33分"
         },
         {
           "title": "标普500指数收跌7.77点，跌幅0.11%，报6816.89点。 道琼斯工业平均指数收跌269.23点，跌幅0.56%，报47916.57点。 纳斯达克综合指数（纳指）收涨80.477点，涨幅0.35，报22902.894点。 纳斯达克100指数收涨34.251点，涨幅0.14%，报25116.338点。 费城半导体指数收涨2.31%，报8889.828点，连续三个交易日创收盘历史新高。 高盛、摩根大通、花旗集团等下周拉开美股财报季序幕之前，费城证交所KBW银行指数收跌0.69%，报165.34点。 道琼斯KBW地区银行指数收跌1.21%，报13.61点。",
