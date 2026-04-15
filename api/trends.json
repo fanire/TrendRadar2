@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-16T03:22:19.161305+08:00",
-  "total_titles_processed": 498,
+  "generated_at": "2026-04-16T04:40:42.176693+08:00",
+  "total_titles_processed": 557,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
         {
           "title": "特朗普称“未来两天内”可能再与伊朗谈判，上轮谈判一度谈到80%仍破裂，伊外长：因为内塔尼亚胡给万斯打了电话",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时08分 ~ 04时40分]"
         },
         {
           "title": "美财长称中国“不可靠”会影响特朗普访华吗？外交部回应",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时08分 ~ 04时40分]"
         },
         {
           "title": "特朗普称美国对伊朗的战争已经结束",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时08分 ~ 04时40分]"
         },
         {
           "title": "特朗普再次威胁袭击伊朗",
@@ -48,8 +48,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时08分 ~ 04时40分]"
         },
         {
           "title": "特朗普拒向教宗道歉，美国民众：很失望",
@@ -59,19 +59,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 03时22分]"
-        },
-        {
-          "title": "白宫：特朗普将提交“美国凯旋拱门”建设计划",
-          "url": "https://flash.jin10.com/detail/20260416024007634800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时22分"
+          "appearance_count": 5,
+          "time_info": "[00时08分 ~ 04时40分]"
         },
         {
           "title": "特朗普：没必要延长停火，接下来两天很精彩",
@@ -81,8 +70,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时08分 ~ 04时40分]"
         },
         {
           "title": "谈判重启前美国向伊朗施压：数千士兵增派中东，特朗普保留“所有选项”！",
@@ -92,8 +81,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时08分 ~ 04时40分]"
+        },
+        {
+          "title": "白宫：特朗普将提交“美国凯旋拱门”建设计划",
+          "url": "https://flash.jin10.com/detail/20260416024007634800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时22分"
         },
         {
           "title": "特朗普威胁：如果任期结束后鲍威尔不离职，他将强行解雇鲍威尔",
@@ -105,8 +105,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时08分 ~ 04时40分]"
         },
         {
           "title": "特朗普：没必要延长同伊朗的停火，接下来两天将非常精彩",
@@ -117,8 +117,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时08分 ~ 04时40分]"
         },
         {
           "title": "特朗普禁令被绕过？Anthropic新模型魅力太大 美政府机构争相合作",
@@ -128,8 +128,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 03时22分]"
+          "appearance_count": 3,
+          "time_info": "[02时01分 ~ 04时40分]"
         },
         {
           "title": "特朗普不满美英“特殊关系” 斯塔默说不会妥协",
@@ -149,9 +149,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "美国总统特朗普与卡塔尔埃米尔通电话，讨论缓和地区局势的问题、讨论稳定能源市场的问题。",
+          "url": "https://wallstreetcn.com/livenews/3088754",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时40分"
+        },
+        {
+          "title": "美国白宫：特朗普已批准许可，授权巴肯管道公司在北达科他州伯克县边界建设并运营跨境管道。",
+          "url": "https://flash.jin10.com/detail/20260416040000834800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时40分"
         },
         {
           "title": "白宫：特朗普将提交“美国凯旋拱门”建设计划",
@@ -160,7 +182,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
         },
@@ -171,9 +193,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "【美国参议院投票否决旨在限制特朗普对伊战争权力的动议】4月15日，美国参议院多数议员对美国总统特朗普针对伊朗的军事行动表示支持。参议院以52票对47票，投票否决了一项由民主党主导的决议。该决议旨在阻止战争，直至敌对行动获得国会授权。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3088745",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时40分"
+        },
+        {
+          "title": "卡塔尔埃米尔宫：卡塔尔埃米尔与美国总统特朗普在电话中讨论了地区局势降温以及确保能源市场稳定。",
+          "url": "https://flash.jin10.com/detail/20260416033511028800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时40分"
         },
         {
           "title": "美国调查特朗普对伊政策转向前发生的异常石油交易",
@@ -185,13 +229,37 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        },
+        {
+          "title": "美国参议院投票否决旨在限制特朗普对伊战争权力的动议",
+          "url": "https://flash.jin10.com/detail/20260416031330828800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时40分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "谈判曙光提振市场，美股高开，美银、大摩涨近4%，阿斯麦跌3%，黄金重回4800美元，布油再度转跌",
+          "url": "https://wallstreetcn.com/articles/3770007",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时08分 ~ 04时40分]"
+        },
         {
           "title": "“市场已宣布胜利！”标普反弹10%、纳指十连涨：美股“不再关心”霍尔木兹，投资者“恐慌式买入”",
           "url": "https://wallstreetcn.com/articles/3769987",
@@ -201,20 +269,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时08分 ~ 04时40分]"
         },
         {
-          "title": "谈判曙光提振市场，美股高开，美银、大摩涨近4%，阿斯麦跌3%，黄金重回4800美元，布油再度转跌",
-          "url": "https://wallstreetcn.com/articles/3770007",
-          "source": "华尔街见闻",
+          "title": "金十图示：2026年04月15日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260416040543220800",
+          "source": "金十数据",
           "ranks": [
-            5,
             4
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 03时22分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时40分"
         },
         {
           "title": "美股期指基本持平 标普500指数冲击新高 | 今夜看点",
@@ -224,8 +291,30 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时08分 ~ 04时40分]"
+        },
+        {
+          "title": "金十图示：2026年04月15日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260416040519362800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时40分"
+        },
+        {
+          "title": "美股收盘：标普500、纳指创新高 特斯拉涨逾7%",
+          "url": "https://flash.jin10.com/detail/20260416040118406800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时40分"
         }
       ]
     },
@@ -240,11 +329,12 @@
           "ranks": [
             8,
             19,
-            10
+            10,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时08分 ~ 04时40分]"
         },
         {
           "title": "DeepSeek高薪招聘数据中心人才",
@@ -271,7 +361,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
         },
@@ -282,7 +372,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
         }
@@ -290,8 +380,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "周三（4月15日）纽约尾盘，ICE美元指数跌0.08%，报98.047点，日内交投区间为98.285-98.005点。 彭博美元指数跌0.08%，报1192.34点，日内交投区间为1195.02-1191.92点。 美元兑日元涨0.12%，报158.98日元，日内交投区间为158.65-159.15日元，整体呈现出三波V形走势。 欧元兑日元涨0.16%，英镑兑日元涨0.14%。",
+          "url": "https://wallstreetcn.com/livenews/3088753",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时40分"
+        },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨2.00%，暂报2586.28点，北京时间03:26跌至2493.84点，随后持续上扬。 MarketVectorTM数字资产100中盘指数涨0.75%，报2788.46点，整体呈现出W形反转。 MarketVector数字资产100指数跌0.58%，报14776.01点。 目前，Solana涨0.70%，狗狗币涨1.73%，XRP涨1.43%。 比特币跌0.41%，暂报73948.86美元；以太坊涨1.16%，暂报2341.14美元。",
           "url": "https://wallstreetcn.com/livenews/3088683",
