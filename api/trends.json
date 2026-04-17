@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-04-17T09:47:50.753263+08:00",
-  "total_titles_processed": 800,
+  "generated_at": "2026-04-17T12:44:03.453961+08:00",
+  "total_titles_processed": 992,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 54,
       "titles": [
         {
           "title": "特朗普：美伊下次会晤或在本周末举行",
           "url": "https://news.ifeng.com/c/8sN3kmBakib",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时01分 ~ 09时47分]"
+          "appearance_count": 10,
+          "time_info": "[03时01分 ~ 12时44分]"
         },
         {
           "title": "特朗普急了！美伊4月BigDeal可以期待？市场紧盯这两天",
@@ -29,8 +30,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时05分 ~ 09时47分]"
+          "appearance_count": 11,
+          "time_info": "[01时05分 ~ 12时44分]"
         },
         {
           "title": "特朗普：美国“很有可能”在4月下旬英国国王访美前与伊朗达成协议",
@@ -98,7 +99,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -114,6 +115,18 @@
           "time_info": "01时05分"
         },
         {
+          "title": "中东迎“曙光”？特朗普：美伊下次会晤或在本周末，以黎同意停火10天！",
+          "url": "https://www.cls.cn/detail/2346891",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时47分 ~ 12时44分]"
+        },
+        {
           "title": "黎以停火十天生效，特朗普趁势喊话：伊朗同意不拥核，美伊周末或复谈",
           "url": "https://flash.jin10.com/detail/20260417071827235800",
           "source": "金十数据",
@@ -123,6 +136,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
+        },
+        {
+          "title": "特朗普：美伊下次会谈可能本周末举行，不排除必要时延长停火，伊朗同意不拥有核武",
+          "url": "https://wallstreetcn.com/articles/3770182",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时47分 ~ 12时44分]"
         },
         {
           "title": "美国总统特朗普：宣布Jennifer Shuford被任命为CDC副主任，Sara Brenner被任命为公共卫生高级顾问。",
@@ -197,6 +222,17 @@
           "time_info": "[03时01分 ~ 04时02分]"
         },
         {
+          "title": "特朗普喊话意大利：你不帮我，我也不会帮你",
+          "url": "https://news.ifeng.com/c/8sOVPzGvey0",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时43分 ~ 12时44分]"
+        },
+        {
           "title": "特朗普：美伊下次会晤可能在本周末举行",
           "url": "https://wallstreetcn.com/livenews/3089529",
           "source": "华尔街见闻-快讯",
@@ -244,17 +280,6 @@
           "time_info": "[06时32分 ~ 06时33分]"
         },
         {
-          "title": "中东迎“曙光”？特朗普：美伊下次会晤或在本周末，以黎同意停火10天！",
-          "url": "https://www.cls.cn/detail/2346891",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时47分"
-        },
-        {
           "title": "美国总统特朗普：提名Erica Schwartz担任疾控中心主任。",
           "url": "https://flash.jin10.com/detail/20260417032540175800",
           "source": "金十数据",
@@ -264,17 +289,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
-        },
-        {
-          "title": "特朗普：美伊下次会谈可能本周末举行，不排除必要时延长停火，伊朗同意不拥有核武",
-          "url": "https://wallstreetcn.com/articles/3770182",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时47分"
         },
         {
           "title": "美国总统特朗普提名Erica Schwartz为疾控中心（CDC）主任。",
@@ -294,7 +308,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -371,7 +385,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -404,7 +418,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -451,6 +465,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "美国共和党参议员格雷厄姆（特朗普的盟友）称，他不信任黎巴嫩武装部队能够解除真主党的武装。",
+          "url": "https://flash.jin10.com/detail/20260417114248677800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
         },
         {
           "title": "特朗普宣布黎以将停火后，以军大规模空袭黎巴嫩南部",
@@ -547,7 +572,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -580,7 +605,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -599,7 +624,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "“反手做空，趁现在还来得及”！高盛交易员警告美股涨过头，抛出6笔对冲交易",
@@ -608,11 +633,25 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时05分 ~ 09时47分]"
+          "appearance_count": 11,
+          "time_info": "[01时05分 ~ 12时44分]"
+        },
+        {
+          "title": "美股收盘：纳指12连涨 锂矿、CPU、光通信牛股带头冲高",
+          "url": "https://www.cls.cn/detail/2346842",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时32分 ~ 12时44分]"
         },
         {
           "title": "AI需求强劲支撑涨势 美股三大期指小幅走高 | 今夜看点",
@@ -651,28 +690,26 @@
           "time_info": "[01时05分 ~ 05时36分]"
         },
         {
-          "title": "美股收盘：纳指12连涨 锂矿、CPU、光通信牛股带头冲高",
-          "url": "https://www.cls.cn/detail/2346842",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时32分 ~ 09时47分]"
-        },
-        {
           "title": "中东紧张局势持续，美股勉强新高，纳指十二连涨，中概股指跑赢大盘，原油两连涨",
           "url": "https://wallstreetcn.com/articles/3770109",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时47分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时47分 ~ 12时44分]"
+        },
+        {
+          "title": "这轮美股新高，散户集体踏空！大多头Tom Lee：下一波上涨将由他们主导",
+          "url": "https://wallstreetcn.com/articles/3770147",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时43分 ~ 12时44分]"
         },
         {
           "title": "周四（4月16日），美股行业ETF涨跌各异，能源业ETF、科技行业ETF、全球科技股指数ETF、网络股指数ETF至多涨1.47%，银行业ETF收跌0.38%，医疗业ETF跌0.79%，生物科技指数ETF跌1.06%，全球航空业ETF跌1.44%。",
@@ -705,9 +742,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
+        },
+        {
+          "title": "动物精神强势回归，散户无视伊朗冲突涌入美股",
+          "url": "https://flash.jin10.com/detail/20260417120037670800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
         },
         {
           "title": "金十图示：2026年04月16日（周四）美股热门股票行情一览（美股盘中）",
@@ -738,7 +786,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -797,11 +845,12 @@
           "url": "https://www.cls.cn/detail/2346818",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时47分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时47分 ~ 12时44分]"
         },
         {
           "title": "在OpenAI宣布伦敦首个永久办公室后，Anthropic揭晓英国重大扩张计划",
@@ -821,7 +870,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -854,7 +903,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -865,7 +914,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -876,7 +925,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         }
@@ -998,7 +1047,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         }
