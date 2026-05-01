@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T16:55:05.281192+08:00",
-  "total_titles_processed": 1140,
+  "generated_at": "2026-05-01T18:17:28.257578+08:00",
+  "total_titles_processed": 1252,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 62,
       "titles": [
         {
           "title": "美军拟以“高超音速导弹”打击伊朗，周四将向特朗普汇报新“打击计划”",
@@ -45,8 +45,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[05时50分 ~ 16时55分]"
+          "appearance_count": 10,
+          "time_info": "[05时50分 ~ 18时17分]"
         },
         {
           "title": "枪击发生时，坐在特朗普身旁的华裔记者是谁？出生于中国厦门的她，是如何一步步成为白宫记者协会主席的？",
@@ -122,6 +122,18 @@
           "time_info": "[04时06分 ~ 10时10分]"
         },
         {
+          "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
+          "url": "https://www.cls.cn/detail/2361654",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时09分 ~ 18时17分]"
+        },
+        {
           "title": "特朗普还是没抵住诱惑",
           "url": "https://news.ifeng.com/c/8slQvquk7wK",
           "source": "凤凰网",
@@ -142,18 +154,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
-        },
-        {
-          "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
-          "url": "https://www.cls.cn/detail/2361654",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时09分 ~ 16时55分]"
         },
         {
           "title": "特朗普家族支持的无人机公司与美国签署武器采购协议",
@@ -220,11 +220,34 @@
           "source": "微博",
           "ranks": [
             23,
-            18
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时12分 ~ 18时17分]"
+        },
+        {
+          "title": "伊朗战争丨特朗普晒图：霍尔木兹海峡被更名为“特朗普海峡”",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时12分 ~ 16时55分]"
+          "time_info": "[16时54分 ~ 18时17分]"
+        },
+        {
+          "title": "特朗普回应伊朗赴美踢世界杯：我没意见",
+          "url": "https://news.ifeng.com/c/8slyIPscfsJ",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时54分 ~ 18时17分]"
         },
         {
           "title": "伊朗战争丨特朗普：可能需要打破伊朗停火协议",
@@ -236,28 +259,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时50分 ~ 06时43分]"
-        },
-        {
-          "title": "伊朗战争丨特朗普晒图：霍尔木兹海峡被更名为“特朗普海峡”",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时54分 ~ 16时55分]"
-        },
-        {
-          "title": "特朗普回应伊朗赴美踢世界杯：我没意见",
-          "url": "https://news.ifeng.com/c/8slyIPscfsJ",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时54分 ~ 16时55分]"
         },
         {
           "title": "特朗普：不在乎鲍威尔是否留任理事",
@@ -461,6 +462,17 @@
           "time_info": "04时06分"
         },
         {
+          "title": "根据53年前颁布的这项法案，今天以后特朗普还能继续打伊朗吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33084769",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
           "title": "美国总统特朗普称美联储主席提名人沃什可能需要在白宫有个办公室。",
           "url": "https://flash.jin10.com/detail/20260501033311250800",
           "source": "金十数据",
@@ -654,7 +666,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时55分"
         },
@@ -811,7 +823,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时55分"
         },
@@ -844,7 +856,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时55分"
         },
@@ -866,7 +878,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时55分"
         },
@@ -908,8 +920,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时43分 ~ 16时55分]"
+          "appearance_count": 9,
+          "time_info": "[06时43分 ~ 18时17分]"
         },
         {
           "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
@@ -921,8 +933,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时43分 ~ 16时55分]"
+          "appearance_count": 9,
+          "time_info": "[06时43分 ~ 18时17分]"
         },
         {
           "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
@@ -1003,11 +1015,12 @@
           "url": "https://wallstreetcn.com/articles/3771450",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时54分 ~ 16时55分]"
+          "appearance_count": 3,
+          "time_info": "[16时54分 ~ 18时17分]"
         },
         {
           "title": "谷歌母公司Alphabet涨幅扩大至10%，创最近逾一年来最大盘中涨幅。",
@@ -1045,11 +1058,12 @@
             2,
             3,
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 16时55分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 18时17分]"
         },
         {
           "title": "从硅谷视角看DeepSeekV4",
@@ -1081,11 +1095,12 @@
           "source": "抖音",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时12分 ~ 16时55分]"
+          "appearance_count": 4,
+          "time_info": "[14时12分 ~ 18时17分]"
         },
         {
           "title": "Deepseek-V4 究竟在编程上和 Claude-Opus-4.7 差距有多大？",
