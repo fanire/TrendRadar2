@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T05:36:18.270583+08:00",
-  "total_titles_processed": 466,
+  "generated_at": "2026-05-10T06:35:03.242219+08:00",
+  "total_titles_processed": 485,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 05时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 06时35分]"
         },
         {
           "title": "俄方同意特朗普提出的停火方案",
@@ -29,11 +29,12 @@
             24,
             22,
             19,
-            18
+            18,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 05时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 06时35分]"
         },
         {
           "title": "意媒：特朗普“仍在考虑”调整驻意美军",
@@ -41,11 +42,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时36分 ~ 05时36分]"
+          "appearance_count": 3,
+          "time_info": "[04时36分 ~ 06时35分]"
         },
         {
           "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
@@ -148,19 +150,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 05时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 06时35分]"
         },
         {
           "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
           "url": "https://www.cls.cn/detail/2366815",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 05时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 06时35分]"
         },
         {
           "title": "为什么 ChatGPT 跟中文用户对话时，「我会稳稳地接住你」常会莫名其妙冒出来？你还发现 AI 的哪些怪癖？",
@@ -172,8 +175,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 05时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 06时35分]"
         },
         {
           "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
@@ -183,8 +186,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时52分 ~ 05时36分]"
+          "appearance_count": 5,
+          "time_info": "[03时52分 ~ 06时35分]"
         }
       ]
     },
@@ -201,8 +204,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 05时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 06时35分]"
         },
         {
           "title": "美股收盘：标普纳指周线6连阳 存储、CPU四大牛股均涨超10%",
@@ -230,8 +233,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 05时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 06时35分]"
         }
       ]
     }
