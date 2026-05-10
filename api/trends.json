@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T18:56:32.340225+08:00",
-  "total_titles_processed": 1068,
+  "generated_at": "2026-05-10T19:44:07.101196+08:00",
+  "total_titles_processed": 1123,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
@@ -19,6 +19,18 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时43分 ~ 10时04分]"
+        },
+        {
+          "title": "特朗普还有一场硬仗",
+          "url": "https://news.ifeng.com/c/8szUPi5xnTB",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时38分 ~ 19时44分]"
         },
         {
           "title": "俄方同意特朗普提出的停火方案",
@@ -55,27 +67,15 @@
           "time_info": "[04时36分 ~ 17时42分]"
         },
         {
-          "title": "特朗普还有一场硬仗",
-          "url": "https://news.ifeng.com/c/8szUPi5xnTB",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时38分 ~ 18时56分]"
-        },
-        {
-          "title": "俄罗斯总统助理乌沙科夫：美国总统特使威特科夫和特朗普女婿库什纳将“很快”抵达莫斯科，俄罗斯将继续与他们对话。",
-          "url": "https://flash.jin10.com/detail/20260510182305585800",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-10）",
+          "url": "https://flash.jin10.com/detail/20260510184554353800",
           "source": "金十数据",
           "ranks": [
-            1
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时56分"
+          "time_info": "19时44分"
         },
         {
           "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
@@ -100,6 +100,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时43分 ~ 03时52分]"
+        },
+        {
+          "title": "俄罗斯总统助理乌沙科夫：美国总统特使威特科夫和特朗普女婿库什纳将“很快”抵达莫斯科，俄罗斯将继续与他们对话。",
+          "url": "https://flash.jin10.com/detail/20260510182305585800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 19时44分]"
         },
         {
           "title": "俄罗斯总统普京：我们当即同意了特朗普关于延长停火并交换囚犯的提议。",
@@ -201,8 +213,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时43分 ~ 18时56分]"
+          "appearance_count": 20,
+          "time_info": "[00时43分 ~ 19时44分]"
         },
         {
           "title": "Deepseek和阿里谈崩了？市场人士回应",
@@ -229,6 +241,18 @@
           "time_info": "[13时57分 ~ 17时42分]"
         },
         {
+          "title": "DeepSeek 被曝融资 500 亿美元，将对 AI 领域产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2035400318624733173",
+          "source": "知乎",
+          "ranks": [
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时56分 ~ 19时44分]"
+        },
+        {
           "title": "DeepSeek被曝融资500亿",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E8%A2%AB%E6%9B%9D%E8%9E%8D%E8%B5%84500%E4%BA%BF%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -239,17 +263,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时57分 ~ 17时42分]"
-        },
-        {
-          "title": "DeepSeek 被曝融资 500 亿美元，将对 AI 领域产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2035400318624733173",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时56分"
         }
       ]
     },
@@ -292,8 +305,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时57分 ~ 18时56分]"
+          "appearance_count": 6,
+          "time_info": "[13时57分 ~ 19时44分]"
         },
         {
           "title": "如何看待美股芯片交易热潮",
