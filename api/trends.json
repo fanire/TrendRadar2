@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T16:02:29.911428+08:00",
-  "total_titles_processed": 900,
+  "generated_at": "2026-05-10T17:42:53.848197+08:00",
+  "total_titles_processed": 994,
   "failed_sources": [],
   "trends": [
     {
@@ -47,11 +47,12 @@
             6,
             11,
             17,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时36分 ~ 16时02分]"
+          "appearance_count": 8,
+          "time_info": "[04时36分 ~ 17时42分]"
         },
         {
           "title": "特朗普还有一场硬仗",
@@ -62,8 +63,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时38分 ~ 16时02分]"
+          "appearance_count": 7,
+          "time_info": "[07时38分 ~ 17时42分]"
         },
         {
           "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
@@ -209,11 +210,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时57分 ~ 16时02分]"
+          "appearance_count": 3,
+          "time_info": "[13时57分 ~ 17时42分]"
         },
         {
           "title": "如何看待美股芯片交易热潮",
@@ -233,7 +235,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         }
@@ -249,23 +251,12 @@
           "source": "贴吧",
           "ranks": [
             11,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时43分 ~ 16时02分]"
-        },
-        {
-          "title": "deepseek 首轮融资估值近 450 亿美元，将对 AI 领域产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2035400318624733173",
-          "source": "知乎",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时57分 ~ 16时02分]"
+          "appearance_count": 17,
+          "time_info": "[00时43分 ~ 17时42分]"
         },
         {
           "title": "Deepseek和阿里谈崩了？市场人士回应",
@@ -279,15 +270,29 @@
           "time_info": "[10时03分 ~ 10时04分]"
         },
         {
+          "title": "deepseek 首轮融资估值近 450 亿美元，将对 AI 领域产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2035400318624733173",
+          "source": "知乎",
+          "ranks": [
+            4,
+            3,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时57分 ~ 17时42分]"
+        },
+        {
           "title": "DeepSeek被曝融资500亿",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E8%A2%AB%E6%9B%9D%E8%9E%8D%E8%B5%84500%E4%BA%BF%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
           "ranks": [
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时57分 ~ 16时02分]"
+          "appearance_count": 3,
+          "time_info": "[13时57分 ~ 17时42分]"
         }
       ]
     },
@@ -316,11 +321,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时43分 ~ 16时02分]"
+          "appearance_count": 17,
+          "time_info": "[00时43分 ~ 17时42分]"
         },
         {
           "title": "为什么 ChatGPT 跟中文用户对话时，「我会稳稳地接住你」常会莫名其妙冒出来？你还发现 AI 的哪些怪癖？",
