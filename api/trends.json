@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T22:26:55.580825+08:00",
-  "total_titles_processed": 1183,
+  "generated_at": "2026-05-17T23:52:07.462661+08:00",
+  "total_titles_processed": 1262,
   "failed_sources": [],
   "trends": [
     {
@@ -30,19 +30,6 @@
           "time_info": "[00时48分 ~ 14时15分]"
         },
         {
-          "title": "特朗普刚结束访华，普京便宣布访华，为什么选在这个时间？背后可能有哪些深意？",
-          "url": "https://www.zhihu.com/question/2039007666429583394",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时10分 ~ 22时26分]"
-        },
-        {
           "title": "特朗普警告台独",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E5%8F%B0%E7%8B%AC%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
@@ -55,6 +42,20 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时48分 ~ 18时23分]"
+        },
+        {
+          "title": "特朗普刚结束访华，普京便宣布访华，为什么选在这个时间？背后可能有哪些深意？",
+          "url": "https://www.zhihu.com/question/2039007666429583394",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1,
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[10时10分 ~ 23时52分]"
         },
         {
           "title": "特朗普在「空军一号」接受采访，释放大量关于贸易、台湾、伊朗等议题信号，哪些内容值得关注？",
@@ -93,8 +94,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时14分 ~ 22时26分]"
+          "appearance_count": 12,
+          "time_info": "[14时14分 ~ 23时52分]"
         },
         {
           "title": "特朗普警告台湾不要试图走向“独立”",
@@ -138,6 +139,18 @@
           "time_info": "[00时48分 ~ 18时23分]"
         },
         {
+          "title": "特朗普访华后续观察",
+          "url": "https://www.douyin.com/hot/2502108",
+          "source": "抖音",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时59分 ~ 23时52分]"
+        },
+        {
           "title": "特朗普谈中国行：巨大成功 非常精彩",
           "url": "https://www.toutiao.com/trending/7639309598792663066/",
           "source": "今日头条",
@@ -149,16 +162,15 @@
           "time_info": "[00时48分 ~ 07时43分]"
         },
         {
-          "title": "特朗普访华后续观察",
-          "url": "https://www.douyin.com/hot/2502108",
-          "source": "抖音",
+          "title": "国民党副主席回应特朗普涉台表态",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E6%B0%91%E5%85%9A%E5%89%AF%E4%B8%BB%E5%B8%AD%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%B6%89%E5%8F%B0%E8%A1%A8%E6%80%81",
+          "source": "百度热搜",
           "ranks": [
-            9,
-            10
+            21
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[16时59分 ~ 21时00分]"
+          "time_info": "[19时55分 ~ 23时52分]"
         },
         {
           "title": "特朗普黄仁勋同款美食",
@@ -198,28 +210,6 @@
           "time_info": "10时11分"
         },
         {
-          "title": "韩国青瓦台：韩国总统李在明与美国总统特朗普讨论了韩美联合事实清单。",
-          "url": "https://flash.jin10.com/detail/20260517215033948800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        },
-        {
-          "title": "国民党副主席回应特朗普涉台表态",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E6%B0%91%E5%85%9A%E5%89%AF%E4%B8%BB%E5%B8%AD%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%B6%89%E5%8F%B0%E8%A1%A8%E6%80%81",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时55分 ~ 22时26分]"
-        },
-        {
           "title": "据白宫随行记者团消息，美国总统特朗普今天在弗吉尼亚州斯特林的斯特林国家高尔夫俱乐部。",
           "url": "https://flash.jin10.com/detail/20260517002136992800",
           "source": "金十数据",
@@ -244,6 +234,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时11分 ~ 16时59分]"
+        },
+        {
+          "title": "韩国青瓦台：韩国总统李在明与美国总统特朗普讨论了韩美联合事实清单。",
+          "url": "https://flash.jin10.com/detail/20260517215033948800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时26分 ~ 23时52分]"
         },
         {
           "title": "美国总统特朗普：从白宫通往椭圆形办公室的步道上，原本是破旧的石板地面。如今，通往椭圆形办公室的步道已铺设了全新的花岗岩地面，取代了原有的石板地面。",
@@ -294,6 +296,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时56分 ~ 21时00分]"
+        },
+        {
+          "title": "据韩联社：韩国总统李在明与美国总统特朗普通电话。",
+          "url": "https://flash.jin10.com/detail/20260517213955159800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时26分 ~ 23时52分]"
         },
         {
           "title": "特朗普发文抨击众议员汤姆·马西 呼吁用选票将他赶下台",
@@ -377,17 +391,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时10分 ~ 10时11分]"
-        },
-        {
-          "title": "据韩联社：韩国总统李在明与美国总统特朗普通电话。",
-          "url": "https://flash.jin10.com/detail/20260517213955159800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
         },
         {
           "title": "特朗普结束访华回国途中，高市早苗迫不及待通电话",
@@ -515,8 +518,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时10分 ~ 22时26分]"
+          "appearance_count": 14,
+          "time_info": "[10时10分 ~ 23时52分]"
         },
         {
           "title": "史上最大IPO来袭！SpaceX据传最早6月12日登陆美股 目标估值高达1.75万亿美元",
@@ -572,8 +575,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时59分 ~ 22时26分]"
+          "appearance_count": 5,
+          "time_info": "[20时59分 ~ 23时52分]"
         }
       ]
     },
