@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-05-18T14:47:47.485295+08:00",
-  "total_titles_processed": 942,
-  "failed_sources": [],
+  "generated_at": "2026-05-18T19:01:12.983819+08:00",
+  "total_titles_processed": 1154,
+  "failed_sources": [
+    "douyin"
+  ],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 42,
       "titles": [
         {
           "title": "岛内称特朗普警告“台独”重击赖当局",
@@ -26,11 +28,12 @@
           "url": "https://news.ifeng.com/c/8tDfE3dOA2C",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时31分 ~ 14时47分]"
+          "appearance_count": 5,
+          "time_info": "[10时31分 ~ 19时01分]"
         },
         {
           "title": "伊朗还剩多少导弹？特朗普称仅18%，伊方称有120%",
@@ -38,11 +41,45 @@
           "source": "凤凰网",
           "ranks": [
             3,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时31分 ~ 14时47分]"
+          "appearance_count": 5,
+          "time_info": "[10时31分 ~ 19时01分]"
+        },
+        {
+          "title": "外交部发言人就美国总统特朗普涉台表态答记者问",
+          "url": "https://www.cls.cn/detail/2374157",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时59分 ~ 19时01分]"
+        },
+        {
+          "title": "外交部回应特朗普涉台表态",
+          "url": "https://news.ifeng.com/c/8tEEErjEHHh",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时59分 ~ 19时01分]"
+        },
+        {
+          "title": "特朗普连发15张图分享中国记忆",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%9E%E5%8F%9115%E5%BC%A0%E5%9B%BE%E5%88%86%E4%BA%AB%E4%B8%AD%E5%9B%BD%E8%AE%B0%E5%BF%86%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时59分 ~ 19时01分]"
         },
         {
           "title": "特朗普刚结束访华，普京便宣布访华，为什么选在这个时间？背后可能有哪些深意？",
@@ -59,6 +96,17 @@
           "time_info": "[00时48分 ~ 06时45分]"
         },
         {
+          "title": "伊朗回应特朗普威胁：我们知道如何应对",
+          "url": "https://news.ifeng.com/c/8tEGnREugMl",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时59分 ~ 19时01分]"
+        },
+        {
           "title": "特朗普此次访华，会对资本市场产生哪些影响？哪些产业受影响更为显著？",
           "url": "https://www.zhihu.com/question/2038636185115779503",
           "source": "知乎",
@@ -71,17 +119,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时56分 ~ 07时52分]"
-        },
-        {
-          "title": "特朗普涉台“四不”示警“台独”",
-          "url": "https://www.toutiao.com/trending/7641033902121058340/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时47分"
         },
         {
           "title": "美国总统特朗普在社媒上分享了一张人工智能生成的与外星人的合照。",
@@ -101,9 +138,44 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时47分"
+        },
+        {
+          "title": "特朗普涉台“四不”示警“台独”",
+          "url": "https://news.ifeng.com/c/8tDfE3dO9u7",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时47分 ~ 19时01分]"
+        },
+        {
+          "title": "外交部回应特朗普涉台表态",
+          "url": "https://www.douyin.com/hot/2503354",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        },
+        {
+          "title": "特朗普涉台“四不”示警“台独”",
+          "url": "https://www.toutiao.com/trending/7641033902121058340/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时47分 ~ 19时01分]"
         },
         {
           "title": "特朗普访华后续观察",
@@ -230,6 +302,28 @@
           "time_info": "[05时46分 ~ 07时52分]"
         },
         {
+          "title": "内塔尼亚胡与特朗普通话“讨论重启对伊战事可能性”，阿联酋关键核电站遭袭",
+          "url": "https://wallstreetcn.com/articles/3772466",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时59分 ~ 19时01分]"
+        },
+        {
+          "title": "特朗普警告伊朗：“时钟正滴答作响”",
+          "url": "https://www.cls.cn/detail/2373911",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时59分 ~ 19时01分]"
+        },
+        {
           "title": "特朗普访华后，日本慌了？日媒急了！",
           "url": "https://www.cls.cn/detail/2373281",
           "source": "财联社热门",
@@ -250,6 +344,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时31分 ~ 10时32分]"
+        },
+        {
+          "title": "特朗普连发15张图分享中国记忆",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%9E%E5%8F%9115%E5%BC%A0%E5%9B%BE%E5%88%86%E4%BA%AB%E4%B8%AD%E5%9B%BD%E8%AE%B0%E5%BF%86",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时59分 ~ 19时01分]"
+        },
+        {
+          "title": "中方回应特朗普涉台表态",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%B6%89%E5%8F%B0%E8%A1%A8%E6%80%81",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时59分 ~ 19时01分]"
         },
         {
           "title": "据AXIOS网站：美国总统特朗普周六与万斯、威特科夫及鲁比奥见面，商讨伊朗问题。",
@@ -284,17 +400,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时45分"
-        },
-        {
-          "title": "特朗普涉台“四不”示警“台独”",
-          "url": "https://news.ifeng.com/c/8tDfE3dO9u7",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时47分"
         },
         {
           "title": "要么放弃宽松，要么失控！鹰派的沃什，反而能让特朗普赢？",
@@ -374,6 +479,17 @@
           "time_info": "02时56分"
         },
         {
+          "title": "美媒：特朗普盟友敦促其在AI模型发布前进行测试和审查",
+          "url": "https://flash.jin10.com/detail/20260518182739773800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时01分"
+        },
+        {
           "title": "特朗普向伊朗发出武力威胁 下周二讨论军事行动选项",
           "url": "https://flash.jin10.com/detail/20260518012607481800",
           "source": "金十数据",
@@ -417,6 +533,17 @@
           "time_info": "[06时44分 ~ 10时32分]"
         },
         {
+          "title": "美股不祥信号浮现？美债收益率狂飙 一文解析背后三大推手",
+          "url": "https://www.cls.cn/detail/2373864",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时47分 ~ 19时01分]"
+        },
+        {
           "title": "史上最大IPO来袭！SpaceX据传最早6月12日登陆美股 目标估值高达1.75万亿美元",
           "url": "https://www.cls.cn/detail/2373172",
           "source": "财联社热门",
@@ -437,17 +564,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时45分"
-        },
-        {
-          "title": "美股不祥信号浮现？美债收益率狂飙 一文解析背后三大推手",
-          "url": "https://www.cls.cn/detail/2373864",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时47分"
         }
       ]
     },
@@ -474,8 +590,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时31分 ~ 14时47分]"
+          "appearance_count": 5,
+          "time_info": "[10时31分 ~ 19时01分]"
         }
       ]
     },
