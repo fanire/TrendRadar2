@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T06:49:37.672617+08:00",
-  "total_titles_processed": 491,
+  "generated_at": "2026-05-25T07:53:01.800034+08:00",
+  "total_titles_processed": 550,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普称美伊协议基本谈成，内容包括开放霍尔木兹海峡，伊媒称将继续由伊朗“管理”，以媒称“对以非常不利”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时55分 ~ 06时49分]"
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 07时53分]"
         },
         {
           "title": "特朗普访华让印度有点傻眼了，鲁比奥“收拾烂摊子”",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时55分 ~ 06时49分]"
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 07时53分]"
         },
         {
           "title": "中东再传利好！特朗普：美伊协议基本谈成 霍尔木兹海峡将开放",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时55分 ~ 06时49分]"
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 07时53分]"
         },
         {
           "title": "白宫附近传出数十声枪响！特朗普当时正在白宫内，特勤局：枪手被执法人员击中，送医后身亡",
@@ -47,11 +47,27 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时55分 ~ 06时49分]"
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 07时53分]"
+        },
+        {
+          "title": "特朗普一季度做了3711笔证券交易",
+          "url": "https://www.toutiao.com/trending/7643303101427879430/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            17,
+            16,
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 07时53分]"
         },
         {
           "title": "白宫顾问哈塞特：美国总统特朗普现在考虑的是，本周是否准备本周与伊朗达成协议。 “所有炼油厂”可能在1-2个月获得所需的石油（供应）。",
@@ -65,20 +81,6 @@
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时55分 ~ 06时49分]"
-        },
-        {
-          "title": "特朗普一季度做了3711笔证券交易",
-          "url": "https://www.toutiao.com/trending/7643303101427879430/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            17,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
           "time_info": "[00时55分 ~ 06时49分]"
         },
         {
@@ -101,11 +103,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            13
+            13,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时44分 ~ 06时49分]"
+          "appearance_count": 4,
+          "time_info": "[04时44分 ~ 07时53分]"
         },
         {
           "title": "特朗普告诉美方代表：不要急于达成协议",
@@ -180,6 +183,28 @@
           "time_info": "[04时44分 ~ 05时48分]"
         },
         {
+          "title": "特朗普称美伊协议“未谈妥”",
+          "url": "https://www.douyin.com/hot/2511044",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时52分 ~ 07时53分]"
+        },
+        {
+          "title": "特朗普称美伊协议未谈妥：封锁将持续",
+          "url": "https://www.toutiao.com/trending/7643602399059250731/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时52分 ~ 07时53分]"
+        },
+        {
           "title": "据以色列第13频道：内塔尼亚胡在安全会议中表示“对美国总统特朗普的影响力有限”。",
           "url": "https://flash.jin10.com/detail/20260525014506415800",
           "source": "金十数据",
@@ -212,11 +237,12 @@
           "url": "https://www.cls.cn/detail/2380075",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时55分 ~ 06时49分]"
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 07时53分]"
         },
         {
           "title": "【早报】国家数据局将把推动词元经济发展纳入工作体系；DeepSeek宣布永久降价",
@@ -227,8 +253,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时55分 ~ 06时49分]"
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 07时53分]"
         },
         {
           "title": "梁文锋与DeepSeek的十万亿美元棋盘",
@@ -238,8 +264,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时55分 ~ 06时49分]"
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 07时53分]"
         },
         {
           "title": "deepseek狂降价,友商被卷哭",
@@ -249,8 +275,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时55分 ~ 06时49分]"
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 07时53分]"
         }
       ]
     },
@@ -274,11 +300,12 @@
           "url": "https://flash.jin10.com/detail/20260525060644652800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时49分 ~ 07时53分]"
         }
       ]
     },
@@ -291,11 +318,12 @@
           "url": "https://flash.jin10.com/detail/20260525063241130800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时49分 ~ 07时53分]"
         }
       ]
     }
