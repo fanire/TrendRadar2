@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-13T14:51:59.797535+08:00",
-  "total_titles_processed": 876,
+  "generated_at": "2026-06-13T17:52:28.139416+08:00",
+  "total_titles_processed": 1022,
   "failed_sources": [],
   "trends": [
     {
@@ -19,16 +19,30 @@
           "time_info": "[01时32分 ~ 07时09分]"
         },
         {
+          "title": "美股收盘：SpaceX首秀升19%市值破2万亿 三大指数集体上涨",
+          "url": "https://www.cls.cn/detail/2398916",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时08分 ~ 17时52分]"
+        },
+        {
           "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
           "url": "https://wallstreetcn.com/articles/3774481",
           "source": "华尔街见闻",
           "ranks": [
             5,
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时08分 ~ 14时51分]"
+          "appearance_count": 5,
+          "time_info": "[07时08分 ~ 17时52分]"
         },
         {
           "title": "SpaceX开盘狂飙29%，美股指转跌，太空概念股跳水，布油跌幅收窄",
@@ -43,29 +57,18 @@
           "time_info": "[01时32分 ~ 05时26分]"
         },
         {
-          "title": "美股收盘：SpaceX首秀升19%市值破2万亿 三大指数集体上涨",
-          "url": "https://www.cls.cn/detail/2398916",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时08分 ~ 14时51分]"
-        },
-        {
           "title": "SpaceX上市引发“虹吸效应” 美股太空概念集体跳水",
           "url": "https://www.cls.cn/detail/2398893",
           "source": "财联社热门",
           "ranks": [
             10,
             6,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时08分 ~ 14时51分]"
+          "appearance_count": 5,
+          "time_info": "[07时08分 ~ 17时52分]"
         },
         {
           "title": "周五（6月12日），美股存储芯片与硬件供应链指数涨3.91%，报233.15点，美股早盘显著上涨，北京时间22:00以来持续交投于2340点附近、高位窄幅震荡，本周累计上涨17.34%。 成分股普遍走高，希捷科技涨7.25%，西部数据涨6.35%，泰瑞达、闪迪至少涨5.24%，应用材料、Rambus、拉姆研究至少涨1.18%，美光科技则收跌1.43%。",
@@ -255,11 +258,36 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            16
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时34分 ~ 17时52分]"
+        },
+        {
+          "title": "特朗普：美军打死“阿拉瓜火车”组织首领",
+          "url": "https://news.ifeng.com/c/8tuxrPNiEYB",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时34分 ~ 14时51分]"
+          "time_info": "[14时51分 ~ 17时52分]"
+        },
+        {
+          "title": "特朗普否认伊媒披露的美伊协议草案：与双方书面协议毫无关系",
+          "url": "https://www.cls.cn/detail/2398839",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时51分 ~ 17时52分]"
         },
         {
           "title": "美国内政部长道格·伯格姆：（谈及伊朗谈判）特朗普已经让该地区各方与其保持一致立场。",
@@ -301,18 +329,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时51分"
-        },
-        {
-          "title": "特朗普：美军打死“阿拉瓜火车”组织首领",
-          "url": "https://news.ifeng.com/c/8tuxrPNiEYB",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         },
@@ -326,17 +343,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
-        },
-        {
-          "title": "特朗普否认伊媒披露的美伊协议草案：与双方书面协议毫无关系",
-          "url": "https://www.cls.cn/detail/2398839",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时51分"
         },
         {
           "title": "美国总统特朗普：在我重返总统办公室之前，乔·拜登向数百万非法犯罪分子敞开了我们的南部边境，任由这支外来军队强暴、残害、谋杀美国公民而完全不受惩罚。",
@@ -367,7 +373,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         }
@@ -382,11 +388,12 @@
           "url": "https://www.zhihu.com/question/2049072203191342205",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时51分 ~ 17时52分]"
         },
         {
           "title": "亚马逊云服务(AWS)：Anthropic已要求我们撤销所有用户在全部区域范围内对Claude Fable 5和Claude Mythos 5的访问权限。所有其他Anthropic模型不受影响。",
@@ -394,11 +401,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            14
+            14,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时34分 ~ 14时51分]"
+          "appearance_count": 3,
+          "time_info": "[10时34分 ~ 17时52分]"
         },
         {
           "title": "亚马逊云服务(AWS)：Anthropic已要求我们撤销所有用户在全部区域范围内对Claude Fable 5和Claude Mythos 5的访问权限。所有其他Anthropic模型不受影响。",
