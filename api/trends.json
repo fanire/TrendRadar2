@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-06-14T19:25:55.350113+08:00",
-  "total_titles_processed": 946,
+  "generated_at": "2026-06-14T21:32:09.463754+08:00",
+  "total_titles_processed": 1086,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
+        {
+          "title": "特朗普：美伊协议计划于周日签署 霍尔木兹海峡随后立即开放",
+          "url": "https://www.cls.cn/detail/2399150",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            3,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时00分 ~ 21时32分]"
+        },
         {
           "title": "特朗普姓名被从肯尼迪中心外墙移除",
           "url": "https://news.ifeng.com/c/8tvV5h0ssCW",
@@ -19,18 +33,16 @@
           "time_info": "[01时13分 ~ 12时13分]"
         },
         {
-          "title": "特朗普：美伊协议计划于周日签署 霍尔木兹海峡随后立即开放",
-          "url": "https://www.cls.cn/detail/2399150",
-          "source": "财联社热门",
+          "title": "美伊协议何时签署？特朗普说14日，伊朗否认，“霍尔木兹海峡是否“免费”重开”也各执一词",
+          "url": "https://wallstreetcn.com/articles/3774599",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            3,
-            4,
-            6
+            8,
+            4
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[08时00分 ~ 19时25分]"
+          "time_info": "[12时13分 ~ 21时32分]"
         },
         {
           "title": "特朗普在Truth Social上分享了巴基斯坦总理谢里夫称协议比以往任何时候都更接近达成的帖子的截图。",
@@ -95,18 +107,6 @@
           "time_info": "[03时10分 ~ 08时01分]"
         },
         {
-          "title": "美伊协议何时签署？特朗普说14日，伊朗否认，“霍尔木兹海峡是否“免费”重开”也各执一词",
-          "url": "https://wallstreetcn.com/articles/3774599",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时13分 ~ 19时25分]"
-        },
-        {
           "title": "国际原子能机构前总干事批评特朗普：试图让美伊新协议显得优于伊核协议",
           "url": "https://flash.jin10.com/detail/20260614051019663800",
           "source": "金十数据",
@@ -143,6 +143,18 @@
           "time_info": "[01时13分 ~ 03时10分]"
         },
         {
+          "title": "自说自话？美媒细数特朗普曾39次说与伊朗“谈好了”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33375825",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时37分 ~ 21时32分]"
+        },
+        {
           "title": "唐宁街10号（英国首相府）：英国首相斯塔默今天下午与美国总统唐纳德·特朗普通了电话。",
           "url": "https://flash.jin10.com/detail/20260614005746679800",
           "source": "金十数据",
@@ -153,6 +165,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时13分 ~ 03时10分]"
+        },
+        {
+          "title": "白宫上演特技摩托车秀，庆祝特朗普80大寿",
+          "url": "https://v.ifeng.com/c/8twfTkgsM7l",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时37分 ~ 21时32分]"
         },
         {
           "title": "美伊协议何时签署 特朗普说14日 伊朗否认",
@@ -204,18 +227,6 @@
           "time_info": "[03时10分 ~ 05时04分]"
         },
         {
-          "title": "自说自话？美媒细数特朗普曾39次说与伊朗“谈好了”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33375825",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时37分 ~ 19时25分]"
-        },
-        {
           "title": "美国总统特朗普就伊朗问题表示：希望这一进程能快速、简单、顺利地完成；如果不行，我们还有终极备选方案。",
           "url": "https://flash.jin10.com/detail/20260614004838021800",
           "source": "金十数据",
@@ -252,15 +263,15 @@
           "time_info": "[01时13分 ~ 03时10分]"
         },
         {
-          "title": "白宫上演特技摩托车秀，庆祝特朗普80大寿",
-          "url": "https://v.ifeng.com/c/8twfTkgsM7l",
-          "source": "凤凰网",
+          "title": "特朗普称美伊协议计划14日签署",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33376146",
+          "source": "澎湃新闻",
           "ranks": [
-            11
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时37分 ~ 19时25分]"
+          "time_info": "[21时31分 ~ 21时32分]"
         },
         {
           "title": "据路透社/益普索民调：美国总统特朗普在美国乡村地区选民中的支持率降至50%，为其总统任内最低水平，较2025年2月的60%有所下降。",
@@ -269,7 +280,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -302,7 +313,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -354,11 +365,12 @@
           "url": "https://www.cls.cn/detail/2399163",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时13分 ~ 19时25分]"
+          "appearance_count": 5,
+          "time_info": "[12时13分 ~ 21时32分]"
         },
         {
           "title": "OpenAI突遭联合调查、Anthropic顶级模型被叫停，美国AI监管风暴升级",
@@ -388,8 +400,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时13分 ~ 19时25分]"
+          "appearance_count": 12,
+          "time_info": "[01时13分 ~ 21时32分]"
         },
         {
           "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
@@ -446,6 +458,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时13分 ~ 06时56分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌官宣3万字路线图：1亿人类水平的AI就是ASI！",
+          "url": "https://wallstreetcn.com/articles/3774610",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 21时32分]"
         }
       ]
     },
