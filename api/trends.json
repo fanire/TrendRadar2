@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-21T13:54:35.954390+08:00",
-  "total_titles_processed": 706,
+  "generated_at": "2026-06-21T17:37:23.582679+08:00",
+  "total_titles_processed": 880,
   "failed_sources": [],
   "trends": [
     {
@@ -91,6 +91,18 @@
           "time_info": "[06时59分 ~ 08时07分]"
         },
         {
+          "title": "事关霍尔木兹！特朗普最新发声 美伊技术层面谈判今日举行",
+          "url": "https://www.cls.cn/detail/2404722",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时54分 ~ 17时37分]"
+        },
+        {
           "title": "意大利总理回击特朗普批评：应关注自身支持率",
           "url": "https://news.ifeng.com/c/8u6beESPjqF",
           "source": "凤凰网",
@@ -162,17 +174,6 @@
           "time_info": "[01时17分 ~ 03时11分]"
         },
         {
-          "title": "事关霍尔木兹！特朗普最新发声 美伊技术层面谈判今日举行",
-          "url": "https://www.cls.cn/detail/2404722",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
           "title": "学者：伊朗效仿特朗普采取“周末战略”",
           "url": "https://flash.jin10.com/detail/20260621012943584800",
           "source": "金十数据",
@@ -212,7 +213,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -255,8 +256,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时16分 ~ 13时54分]"
+          "appearance_count": 10,
+          "time_info": "[01时16分 ~ 17时37分]"
         },
         {
           "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
@@ -311,9 +312,9 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时54分 ~ 17时37分]"
         },
         {
           "title": "OpenAI被查、Anthropic被限，AI炒作漏算了什么？",
@@ -322,7 +323,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         }
