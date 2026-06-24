@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-24T12:59:41.839484+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2026-06-24T16:21:39.697940+08:00",
+  "total_titles_processed": 1100,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "美部长拍特朗普马屁，当场被打脸",
@@ -50,7 +50,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -72,7 +72,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -125,13 +125,47 @@
           "time_info": "[05时25分 ~ 07时01分]"
         },
         {
+          "title": "盘点｜“G7团结”演不下去了，特朗普如何惹恼多国领导人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33439614",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时59分 ~ 16时21分]"
+        },
+        {
+          "title": "梅洛尼与特朗普突然“翻脸”后，意大利试图“降调”缓和关系",
+          "url": "https://news.ifeng.com/c/8uDcqo1sDyJ",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
+          "title": "特朗普向选民打包票：伊朗战争结束后 美国经济将“飞向新高度”！",
+          "url": "https://www.cls.cn/detail/2407452",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
           "title": "史上首次！美参众两院通过决议，共同限制特朗普战争权力",
           "url": "https://news.ifeng.com/c/8uClVTnMwCW",
           "source": "凤凰网",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -153,7 +187,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -164,7 +198,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -197,7 +231,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -263,7 +297,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -277,17 +311,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
-        },
-        {
-          "title": "盘点｜“G7团结”演不下去了，特朗普如何惹恼多国领导人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33439614",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时59分"
         },
         {
           "title": "IBM(IBM.N)：特朗普政府将持有Anderon的股权，但不参与治理。",
@@ -315,7 +338,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "科技巨头下挫拖累美股大盘，芯片股指新高，原油转跌，美债收益率“补涨”",
@@ -403,6 +426,18 @@
           "time_info": "[07时01分 ~ 08时06分]"
         },
         {
+          "title": "6月24日投资避雷针：美股半导体指数暴跌超7% 闪迪、美光科技跌超13%",
+          "url": "https://www.cls.cn/detail/2407435",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时59分 ~ 16时21分]"
+        },
+        {
           "title": "联邦快递(FDX.N)美股盘后延续晚间跌势，现跌约6%。",
           "url": "https://flash.jin10.com/detail/20260624045424480800",
           "source": "金十数据",
@@ -426,15 +461,15 @@
           "time_info": "05时25分"
         },
         {
-          "title": "6月24日投资避雷针：美股半导体指数暴跌超7% 闪迪、美光科技跌超13%",
-          "url": "https://www.cls.cn/detail/2407435",
-          "source": "财联社热门",
+          "title": "美股盘前，半导体股多数上涨，英特尔涨约2%，美光科技涨约3%，高通涨约3%，ARM涨3.5%。",
+          "url": "https://wallstreetcn.com/livenews/3123895",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时59分"
+          "time_info": "16时21分"
         },
         {
           "title": "新兴市场ETF收跌将近5.7%，与纳指ETF领跌美股大类资产类ETF",
@@ -582,8 +617,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时06分 ~ 12时59分]"
+          "appearance_count": 3,
+          "time_info": "[08时06分 ~ 16时21分]"
         },
         {
           "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐升，金银下挫",
@@ -693,7 +728,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         }
@@ -710,7 +745,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         }
