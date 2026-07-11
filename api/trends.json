@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-11T20:58:09.876836+08:00",
-  "total_titles_processed": 1408,
+  "generated_at": "2026-07-11T22:21:01.544657+08:00",
+  "total_titles_processed": 1496,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
+        {
+          "title": "特朗普给了泽连斯基一个重要承诺，舆论泼冷水",
+          "url": "https://news.ifeng.com/c/8ufglrDUNWy",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时07分 ~ 22时21分]"
+        },
         {
           "title": "特朗普搞中国那套，拿来对付西班牙？",
           "url": "https://news.ifeng.com/c/8udchHV60GP",
@@ -21,27 +32,17 @@
           "time_info": "[00时15分 ~ 12时57分]"
         },
         {
-          "title": "特朗普给了泽连斯基一个重要承诺，舆论泼冷水",
-          "url": "https://news.ifeng.com/c/8ufglrDUNWy",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时07分 ~ 20时58分]"
-        },
-        {
           "title": "特朗普：1000枚导弹已瞄准伊朗",
           "url": "https://m.thepaper.cn/newsDetail_forward_33565148",
           "source": "澎湃新闻",
           "ranks": [
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时07分 ~ 20时58分]"
+          "appearance_count": 10,
+          "time_info": "[15时07分 ~ 22时21分]"
         },
         {
           "title": "特朗普称将授权乌克兰本土生产“爱国者”导弹，专家：只是画大饼",
@@ -313,6 +314,17 @@
           "time_info": "09时56分"
         },
         {
+          "title": "披露特朗普新专机安全缺陷的美国记者收到传票",
+          "url": "https://flash.jin10.com/detail/20260711210033072800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "特朗普：我若遇刺 将对伊朗实施狂轰滥炸",
           "url": "https://flash.jin10.com/detail/20260710230827186800",
           "source": "金十数据",
@@ -353,6 +365,20 @@
           "time_info": "[00时15分 ~ 07时50分]"
         },
         {
+          "title": "美股处于“极度脆弱”的时候，财报季开启了",
+          "url": "https://wallstreetcn.com/articles/3776694",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时07分 ~ 22时21分]"
+        },
+        {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
           "url": "https://wallstreetcn.com/articles/3776680",
           "source": "华尔街见闻",
@@ -364,8 +390,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[06时52分 ~ 20时58分]"
+          "appearance_count": 17,
+          "time_info": "[06时52分 ~ 22时21分]"
         },
         {
           "title": "万众瞩目！SK海力士今晚美股首秀 首日表现牵动全球存储板块走向",
@@ -394,22 +420,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时50分 ~ 20时58分]"
-        },
-        {
-          "title": "美股处于“极度脆弱”的时候，财报季开启了",
-          "url": "https://wallstreetcn.com/articles/3776694",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时07分 ~ 20时58分]"
+          "appearance_count": 15,
+          "time_info": "[07时50分 ~ 22时21分]"
         },
         {
           "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
@@ -451,8 +463,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时15分 ~ 20时58分]"
+          "appearance_count": 23,
+          "time_info": "[00时15分 ~ 22时21分]"
         },
         {
           "title": "存储芯片巨头SK海力士登陆美股",
