@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T22:21:01.544657+08:00",
-  "total_titles_processed": 1496,
+  "generated_at": "2026-07-11T23:45:41.368127+08:00",
+  "total_titles_processed": 1564,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时07分 ~ 22时21分]"
+          "appearance_count": 11,
+          "time_info": "[15时07分 ~ 23时45分]"
+        },
+        {
+          "title": "特朗普：1000枚导弹已瞄准伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33565148",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[15时07分 ~ 23时45分]"
         },
         {
           "title": "特朗普搞中国那套，拿来对付西班牙？",
@@ -30,19 +44,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时15分 ~ 12时57分]"
-        },
-        {
-          "title": "特朗普：1000枚导弹已瞄准伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33565148",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时07分 ~ 22时21分]"
         },
         {
           "title": "特朗普称将授权乌克兰本土生产“爱国者”导弹，专家：只是画大饼",
@@ -320,7 +321,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         },
@@ -375,8 +376,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时07分 ~ 22时21分]"
+          "appearance_count": 11,
+          "time_info": "[15时07分 ~ 23时45分]"
         },
         {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
@@ -390,8 +391,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[06时52分 ~ 22时21分]"
+          "appearance_count": 18,
+          "time_info": "[06时52分 ~ 23时45分]"
         },
         {
           "title": "万众瞩目！SK海力士今晚美股首秀 首日表现牵动全球存储板块走向",
@@ -420,8 +421,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时50分 ~ 22时21分]"
+          "appearance_count": 16,
+          "time_info": "[07时50分 ~ 23时45分]"
         },
         {
           "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
@@ -463,8 +464,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时15分 ~ 22时21分]"
+          "appearance_count": 24,
+          "time_info": "[00时15分 ~ 23时45分]"
         },
         {
           "title": "存储芯片巨头SK海力士登陆美股",
