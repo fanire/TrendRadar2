@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T17:49:10.033987+08:00",
-  "total_titles_processed": 1325,
+  "generated_at": "2026-07-17T19:17:15.847407+08:00",
+  "total_titles_processed": 1460,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "担心特朗普全国演讲乱说话，共和党人：我们被吓得“屁滚尿流”",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时51分 ~ 17时49分]"
+          "appearance_count": 8,
+          "time_info": "[09时51分 ~ 19时17分]"
         },
         {
           "title": "美国首例！特朗普恼火：可怕的决定，要输给中国了",
@@ -50,8 +50,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时48分 ~ 17时49分]"
+          "appearance_count": 4,
+          "time_info": "[17时48分 ~ 19时17分]"
         },
         {
           "title": "美国总统特朗普：不转播我演讲的电视网应被吊销执照。",
@@ -156,6 +156,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-17）",
+          "url": "https://flash.jin10.com/detail/20260717183722649800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "白宫官宣特朗普将出席世界杯决赛",
@@ -271,7 +282,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
@@ -282,8 +293,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时55分 ~ 17时49分]"
+          "appearance_count": 10,
+          "time_info": "[07时55分 ~ 19时17分]"
         },
         {
           "title": "半导体抛售潮重创全球股市，美股盘初涨跌互现，存储股普跌，台积电跌3%，现货黄金跌2%",
@@ -391,6 +402,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时55分 ~ 09时52分]"
+        },
+        {
+          "title": "科技股抛售潮蔓延，美股盘前美光跌5%，日股收跌超4%、铠侠盘中大跌16%，布油小幅下跌",
+          "url": "https://wallstreetcn.com/articles/3777186",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 19时17分]"
         },
         {
           "title": "美股大类资产类ETF普遍下跌，新兴市场收跌2.1%，与黄金ETF、可转债ETF领跌",
@@ -707,8 +729,20 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
+          "url": "https://wallstreetcn.com/articles/3777152",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时56分 ~ 19时17分]"
+        },
         {
           "title": "OpenAI董事长：IPO时间暂无最新消息",
           "url": "https://flash.jin10.com/detail/20260717004805940800",
@@ -721,18 +755,6 @@
           "time_info": "01时05分"
         },
         {
-          "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
-          "url": "https://wallstreetcn.com/articles/3777152",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时56分 ~ 17时49分]"
-        },
-        {
           "title": "OpenAI董事长称对其他公司的商业机密“没有兴趣”",
           "url": "https://flash.jin10.com/detail/20260717022344954800",
           "source": "金十数据",
@@ -742,6 +764,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
+        },
+        {
+          "title": "一些现就职于OpenAI的前苹果员工收到了法律信函。（英国《金融时报》）",
+          "url": "https://wallstreetcn.com/livenews/3135650",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         }
       ]
     },
