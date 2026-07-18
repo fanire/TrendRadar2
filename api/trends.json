@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T22:17:25.064579+08:00",
-  "total_titles_processed": 1504,
+  "generated_at": "2026-07-18T23:46:45.442313+08:00",
+  "total_titles_processed": 1569,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "中方驳斥特朗普“中国干预美国大选”论调",
@@ -20,6 +20,18 @@
           "time_info": "[01时02分 ~ 09时42分]"
         },
         {
+          "title": "白宫声称特朗普并非针对中国",
+          "url": "https://news.ifeng.com/c/8urPoLCdQ0d",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时44分 ~ 23时46分]"
+        },
+        {
           "title": "生死博弈！“特朗普美元”来了",
           "url": "https://news.ifeng.com/c/8uqCpNoRpyA",
           "source": "凤凰网",
@@ -32,16 +44,16 @@
           "time_info": "[01时02分 ~ 06时40分]"
         },
         {
-          "title": "白宫声称特朗普并非针对中国",
-          "url": "https://news.ifeng.com/c/8urPoLCdQ0d",
+          "title": "特朗普支持“兄终妹及”：任期结束后继续参选",
+          "url": "https://news.ifeng.com/c/8ur9XDi7eVj",
           "source": "凤凰网",
           "ranks": [
-            4,
-            1
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时44分 ~ 22时17分]"
+          "appearance_count": 10,
+          "time_info": "[12时41分 ~ 23时46分]"
         },
         {
           "title": "白宫：特朗普将出席世界杯决赛",
@@ -55,18 +67,6 @@
           "time_info": "[01时02分 ~ 04时00分]"
         },
         {
-          "title": "特朗普支持“兄终妹及”：任期结束后继续参选",
-          "url": "https://news.ifeng.com/c/8ur9XDi7eVj",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时41分 ~ 22时17分]"
-        },
-        {
           "title": "分析｜轰炸、备忘录双双失效，特朗普还有C计划吗？专家：美国已陷入“战略死胡同”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33605316",
           "source": "澎湃新闻",
@@ -74,11 +74,25 @@
             15,
             14,
             13,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时54分 ~ 23时46分]"
+        },
+        {
+          "title": "空气质量影响世界杯决赛？特朗普扬言就加拿大山火烟霾追加关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33612068",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时54分 ~ 22时17分]"
+          "appearance_count": 6,
+          "time_info": "[19时45分 ~ 23时46分]"
         },
         {
           "title": "台积电加码对美投资，特朗普：邀请所有人前来美国建厂",
@@ -115,18 +129,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时56分 ~ 07时44分]"
-        },
-        {
-          "title": "空气质量影响世界杯决赛？特朗普扬言就加拿大山火烟霾追加关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33612068",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时45分 ~ 22时17分]"
         },
         {
           "title": "美国总统特朗普再次赞赏6月通胀数据。",
@@ -178,6 +180,19 @@
           "time_info": "[01时02分 ~ 02时55分]"
         },
         {
+          "title": "如何看待白宫提词器操作员提前获取特朗普演讲稿，并据此押注获利近 10 万元，最终被调查？",
+          "url": "https://www.zhihu.com/question/2061441397995954863",
+          "source": "知乎",
+          "ranks": [
+            15,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时54分 ~ 23时46分]"
+        },
+        {
           "title": "特朗普再谈巴洛贡红牌事件",
           "url": "https://news.ifeng.com/c/8ur69Rbmt2A",
           "source": "凤凰网",
@@ -200,18 +215,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时44分 ~ 07时44分]"
-        },
-        {
-          "title": "如何看待白宫提词器操作员提前获取特朗普演讲稿，并据此押注获利近 10 万元，最终被调查？",
-          "url": "https://www.zhihu.com/question/2061441397995954863",
-          "source": "知乎",
-          "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时54分 ~ 22时17分]"
         },
         {
           "title": "特朗普：因凡蒂诺建议中美合办世界杯",
@@ -347,6 +350,17 @@
           "time_info": "19时46分"
         },
         {
+          "title": "特朗普透露：因凡蒂诺曾建议美国和中国联合举办一届世界杯",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33611562",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
           "title": "据以色列媒体：以色列总理内塔尼亚胡推迟访美，不仅是因为已故共和党参议员林赛·格雷厄姆的葬礼安排有变，还因与特朗普政府分歧加剧，尤其是美国副总统万斯近期严厉批评以色列。",
           "url": "https://flash.jin10.com/detail/20260718014652994800",
           "source": "金十数据",
@@ -374,8 +388,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时40分 ~ 22时17分]"
+          "appearance_count": 14,
+          "time_info": "[06时40分 ~ 23时46分]"
         },
         {
           "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
@@ -425,6 +439,18 @@
           "time_info": "[04时56分 ~ 07时44分]"
         },
         {
+          "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
+          "url": "https://wallstreetcn.com/articles/3777263",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时54分 ~ 23时46分]"
+        },
+        {
           "title": "周五（7月17日），美股行业ETF普遍收跌，全球航空业ETF跌2.53%，半导体ETF跌2.18%，可选消费ETF跌1.62%，区域银行ETF回撤1.58%，全球科技股指数ETF、网络股指数ETF、科技行业ETF至多跌1.31%，能源业ETF涨1.16%。",
           "url": "https://wallstreetcn.com/livenews/3135906",
           "source": "华尔街见闻-快讯",
@@ -465,18 +491,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时56分 ~ 07时44分]"
-        },
-        {
-          "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
-          "url": "https://wallstreetcn.com/articles/3777263",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时54分 ~ 22时17分]"
         },
         {
           "title": "美股三大指数全线下挫",
@@ -702,11 +716,12 @@
           "url": "https://flash.jin10.com/detail/20260718213228936800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时17分 ~ 23时46分]"
         }
       ]
     },
