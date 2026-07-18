@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T20:55:13.367712+08:00",
-  "total_titles_processed": 1392,
+  "generated_at": "2026-07-18T22:17:25.064579+08:00",
+  "total_titles_processed": 1504,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时44分 ~ 20时55分]"
+          "appearance_count": 7,
+          "time_info": "[16时44分 ~ 22时17分]"
         },
         {
           "title": "白宫：特朗普将出席世界杯决赛",
@@ -63,8 +63,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时41分 ~ 20时55分]"
+          "appearance_count": 9,
+          "time_info": "[12时41分 ~ 22时17分]"
         },
         {
           "title": "分析｜轰炸、备忘录双双失效，特朗普还有C计划吗？专家：美国已陷入“战略死胡同”",
@@ -73,11 +73,12 @@
           "ranks": [
             15,
             14,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时54分 ~ 20时55分]"
+          "appearance_count": 8,
+          "time_info": "[14时54分 ~ 22时17分]"
         },
         {
           "title": "台积电加码对美投资，特朗普：邀请所有人前来美国建厂",
@@ -114,6 +115,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时56分 ~ 07时44分]"
+        },
+        {
+          "title": "空气质量影响世界杯决赛？特朗普扬言就加拿大山火烟霾追加关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33612068",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时45分 ~ 22时17分]"
         },
         {
           "title": "美国总统特朗普再次赞赏6月通胀数据。",
@@ -165,17 +178,6 @@
           "time_info": "[01时02分 ~ 02时55分]"
         },
         {
-          "title": "空气质量影响世界杯决赛？特朗普扬言就加拿大山火烟霾追加关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33612068",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时45分 ~ 20时55分]"
-        },
-        {
           "title": "特朗普再谈巴洛贡红牌事件",
           "url": "https://news.ifeng.com/c/8ur69Rbmt2A",
           "source": "凤凰网",
@@ -200,6 +202,18 @@
           "time_info": "[05时44分 ~ 07时44分]"
         },
         {
+          "title": "如何看待白宫提词器操作员提前获取特朗普演讲稿，并据此押注获利近 10 万元，最终被调查？",
+          "url": "https://www.zhihu.com/question/2061441397995954863",
+          "source": "知乎",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时54分 ~ 22时17分]"
+        },
+        {
           "title": "特朗普：因凡蒂诺建议中美合办世界杯",
           "url": "https://www.douyin.com/hot/2575839",
           "source": "抖音",
@@ -209,17 +223,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时54分 ~ 16时44分]"
-        },
-        {
-          "title": "如何看待白宫提词器操作员提前获取特朗普演讲稿，并据此押注获利近 10 万元，最终被调查？",
-          "url": "https://www.zhihu.com/question/2061441397995954863",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时54分 ~ 20时55分]"
         },
         {
           "title": "曝特朗普买股票后在社媒发有利信息",
@@ -306,7 +309,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         },
@@ -367,11 +370,12 @@
           "ranks": [
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时40分 ~ 20时55分]"
+          "appearance_count": 13,
+          "time_info": "[06时40分 ~ 22时17分]"
         },
         {
           "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
@@ -463,6 +467,18 @@
           "time_info": "[04时56分 ~ 07时44分]"
         },
         {
+          "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
+          "url": "https://wallstreetcn.com/articles/3777263",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时54分 ~ 22时17分]"
+        },
+        {
           "title": "美股三大指数全线下挫",
           "url": "https://www.douyin.com/hot/2575548",
           "source": "抖音",
@@ -485,17 +501,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时54分 ~ 16时44分]"
-        },
-        {
-          "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
-          "url": "https://wallstreetcn.com/articles/3777263",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时54分 ~ 20时55分]"
         },
         {
           "title": "美股半导体指数跌入熊市",
@@ -685,6 +690,23 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时02分 ~ 06时40分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Claude",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "AI模型评测平台Arena显示，Kimi-K3已在Frontend Code Arena中以1679分位居第一，超越了Claude Fable 5。",
+          "url": "https://flash.jin10.com/detail/20260718213228936800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         }
       ]
     },
