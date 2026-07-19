@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T07:44:35.765539+08:00",
-  "total_titles_processed": 541,
+  "generated_at": "2026-07-19T09:50:29.190637+08:00",
+  "total_titles_processed": 685,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "url": "https://news.ifeng.com/c/8us63AU51TY",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时01分 ~ 07时44分]"
+          "appearance_count": 7,
+          "time_info": "[04时01分 ~ 09时50分]"
         },
         {
           "title": "特朗普支持“兄终妹及”：任期结束后继续参选",
@@ -79,8 +80,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 07时44分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 09时50分]"
         },
         {
           "title": "特朗普透露：因凡蒂诺曾建议美国和中国联合举办一届世界杯",
@@ -89,22 +90,12 @@
           "ranks": [
             20,
             19,
-            18
+            18,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 05时42分]"
-        },
-        {
-          "title": "特朗普：“完全不在乎”伊朗暂停履行临时协议",
-          "url": "https://flash.jin10.com/detail/20260719052601155800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时40分 ~ 07时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 09时50分]"
         },
         {
           "title": "伊朗驻巴基斯坦大使：特朗普摧毁了两项重要外交成果",
@@ -125,11 +116,24 @@
           "source": "金十数据",
           "ranks": [
             3,
-            9
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时42分 ~ 09时50分]"
+        },
+        {
+          "title": "特朗普：“完全不在乎”伊朗暂停履行临时协议",
+          "url": "https://flash.jin10.com/detail/20260719052601155800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            21
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[05时42分 ~ 07时44分]"
+          "time_info": "[06时40分 ~ 09时50分]"
         },
         {
           "title": "美媒：特朗普政府仍未说明本轮冲突的持续时间与最终目标",
@@ -183,6 +187,18 @@
           "time_info": "[00时45分 ~ 01时49分]"
         },
         {
+          "title": "据NewsNation：特朗普在得知两名美国军人在伊朗袭击中丧生的消息后首次作出回应。他表示：“这是一件非常悲伤的事情。我们不愿看到这种情况发生。他们是在为我们的国家服役。”",
+          "url": "https://flash.jin10.com/detail/20260719052220338800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时40分 ~ 09时50分]"
+        },
+        {
           "title": "特朗普点评英格兰队战术",
           "url": "https://www.douyin.com/hot/2575689",
           "source": "抖音",
@@ -192,17 +208,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时39分 ~ 07时44分]"
-        },
-        {
-          "title": "据NewsNation：特朗普在得知两名美国军人在伊朗袭击中丧生的消息后首次作出回应。他表示：“这是一件非常悲伤的事情。我们不愿看到这种情况发生。他们是在为我们的国家服役。”",
-          "url": "https://flash.jin10.com/detail/20260719052220338800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时40分 ~ 07时44分]"
         },
         {
           "title": "美国参议员桑德斯：曾几何时，美国凭借其对民主与正义的坚定承诺激励着全世界。遗憾的是，在特朗普执政之下，情况已不再如此。",
@@ -247,8 +252,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 07时44分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 09时50分]"
         },
         {
           "title": "Kimi K3重演“DeepSeek时刻”",
@@ -275,8 +280,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 07时44分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 09时50分]"
         },
         {
           "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
@@ -319,11 +324,12 @@
           "url": "https://flash.jin10.com/detail/20260719055403527800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时40分 ~ 07时44分]"
+          "appearance_count": 3,
+          "time_info": "[06时40分 ~ 09时50分]"
         }
       ]
     }
