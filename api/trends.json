@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-07-22T13:02:19.816836+08:00",
-  "total_titles_processed": 1000,
+  "generated_at": "2026-07-22T15:38:26.251204+08:00",
+  "total_titles_processed": 1162,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 57,
+      "match_count": 60,
       "titles": [
-        {
-          "title": "胡塞武装封锁红海？特朗普回应",
-          "url": "https://news.ifeng.com/c/8ux6FAGKMcr",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时49分 ~ 13时02分]"
-        },
         {
           "title": "特朗普点名伊朗镐山地下核设施：将很快发动猛烈打击",
           "url": "https://www.cls.cn/detail/2433190",
@@ -42,6 +30,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时18分 ~ 07时49分]"
+        },
+        {
+          "title": "胡塞武装封锁红海？特朗普回应",
+          "url": "https://news.ifeng.com/c/8ux6FAGKMcr",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时49分 ~ 15时38分]"
         },
         {
           "title": "特朗普：可能很快打击伊朗“镐山”核设施",
@@ -105,7 +106,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -127,7 +128,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -229,6 +230,17 @@
           "time_info": "[00时18分 ~ 06时48分]"
         },
         {
+          "title": "这条40余年的禁令，被特朗普解除了",
+          "url": "https://news.ifeng.com/c/8uxiWY6YntB",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时01分 ~ 15时38分]"
+        },
+        {
           "title": "特朗普宣布两年后对仿制药征收100%关税",
           "url": "https://news.ifeng.com/c/8uxX85JoJZj",
           "source": "凤凰网",
@@ -262,17 +274,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时18分 ~ 04时15分]"
-        },
-        {
-          "title": "这条40余年的禁令，被特朗普解除了",
-          "url": "https://news.ifeng.com/c/8uxiWY6YntB",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时02分]"
         },
         {
           "title": "加拿大取消与美国的跨境大桥庆祝活动，此前特朗普政府宣布对加拿大加征关税。 加拿大说，Gordie Howe Bridge仍然将在7月27日开放。",
@@ -367,6 +368,17 @@
           "time_info": "07时49分"
         },
         {
+          "title": "特朗普承认美方干预中国事务，并称“中国今时不同往日”",
+          "url": "https://news.ifeng.com/c/8uy1V150ZKO",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
           "title": "美国总统特朗普：将非常猛烈地打击镐山地区。",
           "url": "https://flash.jin10.com/detail/20260721234059763800",
           "source": "金十数据",
@@ -420,6 +432,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
+        },
+        {
+          "title": "特朗普：如果也门胡塞武装封锁红海，美国将采取行动",
+          "url": "https://www.cls.cn/detail/2433325",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
         },
         {
           "title": "美国总统特朗普：伊朗还什么都没见识过，我们一直很克制。",
@@ -565,6 +588,17 @@
           "time_info": "09时49分"
         },
         {
+          "title": "特朗普承认美方干预中国事务",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AE%A4%E7%BE%8E%E6%96%B9%E5%B9%B2%E9%A2%84%E4%B8%AD%E5%9B%BD%E4%BA%8B%E5%8A%A1%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
           "title": "美国总统特朗普：（在谈及加拿大关税时表示）这是因为他们对我们的农民等问题上采取了强硬措施。",
           "url": "https://flash.jin10.com/detail/20260721233610193800",
           "source": "金十数据",
@@ -648,7 +682,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         }
@@ -689,8 +723,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时49分 ~ 13时02分]"
+          "appearance_count": 5,
+          "time_info": "[07时49分 ~ 15时38分]"
         },
         {
           "title": "美股收盘：明星存储股集体飙涨两位数 芯片股反弹费城指数升逾5%",
@@ -716,6 +750,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时56分 ~ 06时48分]"
+        },
+        {
+          "title": "美股存储概念全线爆发！华尔街喊话坚守AI硬件股：Kimi K3将催生新需求",
+          "url": "https://www.cls.cn/detail/2433303",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时49分 ~ 15时38分]"
         },
         {
           "title": "全球科技股反弹！纳指涨2%，美股存储芯片指数涨超10%，布油重回90美元上方",
@@ -775,6 +822,18 @@
           "time_info": "02时11分"
         },
         {
+          "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
+          "url": "https://wallstreetcn.com/articles/3777612",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时01分 ~ 15时38分]"
+        },
+        {
           "title": "金十图示：2026年07月21日（周二）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260722014347075800",
           "source": "金十数据",
@@ -784,29 +843,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时11分"
-        },
-        {
-          "title": "美股存储概念全线爆发！华尔街喊话坚守AI硬件股：Kimi K3将催生新需求",
-          "url": "https://www.cls.cn/detail/2433303",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时49分 ~ 13时02分]"
-        },
-        {
-          "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
-          "url": "https://wallstreetcn.com/articles/3777612",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时02分]"
         },
         {
           "title": "周二（7月21日），美股存储芯片与硬件供应链指数涨11.12%，报213.46点。 成分股闪迪收涨14.27%，西部数据、美光科技、泰瑞达、希捷科技涨12.51%-11.14%紧随其后，应用材料、拉姆研究、Rambus也至少涨4.90%。 美国科技股七巨头（Magnificent 7）指数涨0.12%，报217.46点。 “超大”市值科技股指数涨1.24%，报436.57点。 美股超大规模云服务商（Hyperscalers）跌0.45%，报92.19点。 信息科技指数涨5.98%，报400.79点。 人工智能（AI）赢家指数涨5.99%，报401.39点。 AI软件先驱指数跌1.08%，报108.27点。 北美科技软件股指数ETF跌1.25%，报91.82美元；Global X网络安全ETF跌2.82%，纳斯达克网络安全ETF跌1.32%，ETFMG网络安全ETF跌1.98%",
@@ -892,7 +928,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "OpenAI负责人抨击Kimi开源",
@@ -912,11 +948,12 @@
           "url": "https://www.zhihu.com/question/2062943431668789795",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时02分]"
+          "appearance_count": 3,
+          "time_info": "[13时01分 ~ 15时38分]"
         },
         {
           "title": "据华尔街日报：OpenAI在首次公开募股前增聘两名独立董事，分别为数字银行Nubank创始人兼首席执行官大卫·贝莱兹以及纽约梅隆银行首席执行官罗宾·文斯。",
@@ -975,6 +1012,17 @@
           "time_info": "04时15分"
         },
         {
+          "title": "史无前例！OpenAI模型“失控”攻入全球最大AI开源社区 中国开源模型参与取证",
+          "url": "https://www.cls.cn/detail/2433554",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
           "title": "AI逃离沙盒 OpenAI认下Hugging Face被黑事件",
           "url": "https://wallstreetcn.com/livenews/3137753",
           "source": "华尔街见闻-快讯",
@@ -1011,8 +1059,21 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "谷歌财报前夜，德银力挺：别光盯着Capex，真正的惊喜可能来自谷歌云",
+          "url": "https://wallstreetcn.com/articles/3777555",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时49分 ~ 15时38分]"
+        },
         {
           "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
           "url": "https://wallstreetcn.com/articles/3777467",
@@ -1023,18 +1084,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时18分 ~ 04时15分]"
-        },
-        {
-          "title": "谷歌财报前夜，德银力挺：别光盯着Capex，真正的惊喜可能来自谷歌云",
-          "url": "https://wallstreetcn.com/articles/3777555",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时49分 ~ 13时02分]"
         },
         {
           "title": "怎么看谷歌发布了 Gemini 3.6 flash 和 3.5 lite，但是 pro 又缺席？",
@@ -1058,6 +1107,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "Reach股价跌21%；公司表示行业逆风将持续至2027年，谷歌相关流量下降40%。",
+          "url": "https://flash.jin10.com/detail/20260722151900739800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
         },
         {
           "title": "谷歌发布一系列更低成本的Gemini模型",
