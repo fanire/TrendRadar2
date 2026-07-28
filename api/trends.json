@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T18:26:26.728968+08:00",
-  "total_titles_processed": 1358,
+  "generated_at": "2026-07-28T20:49:47.363182+08:00",
+  "total_titles_processed": 1517,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 46,
       "titles": [
         {
           "title": "特朗普威胁对欧盟加征巨额报复性关税，为何又是“301调查”？",
@@ -88,6 +88,20 @@
           "time_info": "07时57分"
         },
         {
+          "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            17,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时52分 ~ 20时49分]"
+        },
+        {
           "title": "据纽约邮报：以色列总理内塔尼亚胡将向美国总统特朗普提供伊朗“镐山”核设施情报。",
           "url": "https://flash.jin10.com/detail/20260728052319740800",
           "source": "金十数据",
@@ -122,19 +136,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时57分 ~ 07时57分]"
-        },
-        {
-          "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            17,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时52分 ~ 18时26分]"
         },
         {
           "title": "美国总统特朗普：交通部长Duffy已经要求在美国生产小型车和微型车。",
@@ -238,7 +239,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -452,6 +453,17 @@
           "time_info": "00时09分"
         },
         {
+          "title": "美媒：内塔尼亚胡本次访美对特朗普决策的影响大不如前",
+          "url": "https://flash.jin10.com/detail/20260728201348874800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
+        },
+        {
           "title": "特朗普称在伊朗问题上“发生一些事”的可能性很高，标普500指数转涨",
           "url": "https://wallstreetcn.com/livenews/3140436",
           "source": "华尔街见闻-快讯",
@@ -502,7 +514,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -513,7 +525,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         }
@@ -521,7 +533,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "美股",
@@ -536,6 +548,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时09分 ~ 09时52分]"
+        },
+        {
+          "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
+          "url": "https://wallstreetcn.com/articles/3778058",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时52分 ~ 20时49分]"
         },
         {
           "title": "美伊暂停交火提振市场情绪 美股期指上涨 油价大幅回落 | 今夜看点",
@@ -563,19 +588,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时09分 ~ 09时52分]"
-        },
-        {
-          "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
-          "url": "https://wallstreetcn.com/articles/3778058",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时52分 ~ 18时26分]"
         },
         {
           "title": "美股收盘：阿斯麦、英伟达领衔“芯片风暴” 苹果重返全球市值第一",
@@ -661,6 +673,32 @@
           "time_info": "[04时14分 ~ 05时58分]"
         },
         {
+          "title": "美股半导体崩盘,闪迪跌破新低",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356568&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B4%A9%E7%9B%98%2C%E9%97%AA%E8%BF%AA%E8%B7%8C%E7%A0%B4%E6%96%B0%E4%BD%8E",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时34分 ~ 20时49分]"
+        },
+        {
+          "title": "长鑫上市后，美股「半导体 - 芯片板块」普跌，SK 海力士破发，早盘韩股熔断，日经大跌，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2065354296774989670",
+          "source": "知乎",
+          "ranks": [
+            20,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时34分 ~ 20时49分]"
+        },
+        {
           "title": "7月28日投资避雷针：美股费城半导体指数创5月20日以来收盘新低 英伟达跌约5%",
           "url": "https://www.cls.cn/detail/2438430",
           "source": "财联社热门",
@@ -672,18 +710,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时52分 ~ 15时34分]"
-        },
-        {
-          "title": "美股半导体崩盘,闪迪跌破新低",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356568&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B4%A9%E7%9B%98%2C%E9%97%AA%E8%BF%AA%E8%B7%8C%E7%A0%B4%E6%96%B0%E4%BD%8E",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时34分 ~ 18时26分]"
         },
         {
           "title": "美股迎芯片风暴 苹果重返市值第一",
@@ -707,18 +733,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时58分 ~ 06时57分]"
-        },
-        {
-          "title": "长鑫上市后，美股「半导体 - 芯片板块」普跌，SK 海力士破发，早盘韩股熔断，日经大跌，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2065354296774989670",
-          "source": "知乎",
-          "ranks": [
-            20,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时34分 ~ 18时26分]"
         },
         {
           "title": "美股上演芯片风暴 苹果重返市值第一",
@@ -773,7 +787,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -822,6 +836,17 @@
           "time_info": "05时58分"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-07-28）",
+          "url": "https://flash.jin10.com/detail/20260728201416107800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
+        },
+        {
           "title": "金十图示：2026年07月27日（周一）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260728010650028800",
           "source": "金十数据",
@@ -855,6 +880,17 @@
           "time_info": "05时58分"
         },
         {
+          "title": "康宁美股盘前大跌超15%，公司预计第三季度核心销售额49亿至50亿美元，市场预估50亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3140990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
+        },
+        {
           "title": "美股存储芯片指数跌超7%，成分股闪迪跌9.2%，泰瑞达跌5.2%，西部数据跌5%，希捷科技跌4.4%，美光跌4.3%，拉姆研究跌4.3%。 此外，SK海力士ADR跌幅扩大至6％，报145.44美元/股，创上市以来新低，盘中市值1.06万亿美元。 费城半导体指数跌4%，英伟达跌约3.8%。",
           "url": "https://wallstreetcn.com/livenews/3140393",
           "source": "华尔街见闻-快讯",
@@ -880,7 +916,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "OpenAI失控入侵,遭索赔1亿算力",
@@ -926,11 +962,12 @@
           "url": "https://wallstreetcn.com/articles/3778049",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 20时49分]"
         },
         {
           "title": "英伟达在OpenAI联合创始人伊利亚·苏茨克沃的安全超级智能项目中投资达数十亿美元。（The Information）",
@@ -942,6 +979,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
+        },
+        {
+          "title": "ChatGPT反过来跟我倾诉",
+          "url": "https://s.weibo.com/weibo?q=ChatGPT%E5%8F%8D%E8%BF%87%E6%9D%A5%E8%B7%9F%E6%88%91%E5%80%BE%E8%AF%89&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
         }
       ]
     },
@@ -957,11 +1005,12 @@
             1,
             7,
             11,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时20分 ~ 18时26分]"
+          "appearance_count": 12,
+          "time_info": "[02时20分 ~ 20时49分]"
         },
         {
           "title": "DeepSeek说他先去吃饭了",
