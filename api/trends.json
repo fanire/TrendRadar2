@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T17:29:24.535569+08:00",
-  "total_titles_processed": 1167,
+  "generated_at": "2026-08-08T18:23:16.053289+08:00",
+  "total_titles_processed": 1225,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "中期选举临近，特朗普连续21场败诉",
@@ -31,8 +31,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时06分 ~ 17时29分]"
+          "appearance_count": 10,
+          "time_info": "[12时06分 ~ 18时23分]"
         },
         {
           "title": "释新闻｜槽点密集的造舰计划：特朗普的“黄金舰队”梦能实现吗？",
@@ -47,8 +47,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[03时45分 ~ 17时29分]"
+          "appearance_count": 19,
+          "time_info": "[03时45分 ~ 18时23分]"
         },
         {
           "title": "特朗普：隔着大洋呢，我们没掺和这事",
@@ -184,6 +184,29 @@
           "time_info": "[02时42分 ~ 03时45分]"
         },
         {
+          "title": "黄金期货价格突破4400美元关口 特朗普继续推进罢免美联储理事库克 | 环球市场",
+          "url": "https://www.cls.cn/detail/2448987",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时36分 ~ 18时23分]"
+        },
+        {
+          "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
+          "url": "https://v.ifeng.com/c/8vONreNLVHw",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时29分 ~ 18时23分]"
+        },
+        {
           "title": "美国总统特朗普：到场的人太多了，不然我得在这儿待上一整天。 希望大家提问尽量简短，我不胜感激，毕竟我们还有战事要推进，明白吗？ 这就是我要提前离场的理由。",
           "url": "https://wallstreetcn.com/livenews/3146895",
           "source": "华尔街见闻-快讯",
@@ -210,6 +233,17 @@
           "time_info": "[03时45分 ~ 05时31分]"
         },
         {
+          "title": "白宫宴会厅施工被叫停，特朗普怒了：国家耻辱！",
+          "url": "https://news.ifeng.com/c/8vQSbJyuyMk",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 18时23分]"
+        },
+        {
           "title": "特朗普谈降息：希望利率下调，但这不完全取决于沃什一人",
           "url": "https://wallstreetcn.com/articles/3778955",
           "source": "华尔街见闻",
@@ -219,17 +253,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时53分 ~ 12时06分]"
-        },
-        {
-          "title": "黄金期货价格突破4400美元关口 特朗普继续推进罢免美联储理事库克 | 环球市场",
-          "url": "https://www.cls.cn/detail/2448987",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时36分 ~ 17时29分]"
         },
         {
           "title": "特朗普政府拟向电池及材料企业拨付20亿美元。 特朗普盛赞 MP 材料公司获得政府注资。（华尔街日报）",
@@ -265,17 +288,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时57分 ~ 08时58分]"
-        },
-        {
-          "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
-          "url": "https://v.ifeng.com/c/8vONreNLVHw",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
         },
         {
           "title": "美国总统特朗普：向美国采矿院校提供1亿美元资金，这项投资将帮助培养下一代采矿工程师，因为该行业正面临大规模退休潮以及毕业生人数不足的问题。",
@@ -414,8 +426,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时57分 ~ 17时29分]"
+          "appearance_count": 13,
+          "time_info": "[08时57分 ~ 18时23分]"
         },
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
@@ -440,8 +452,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时43分 ~ 17时29分]"
+          "appearance_count": 22,
+          "time_info": "[00时43分 ~ 18时23分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -455,8 +467,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时26分 ~ 17时29分]"
+          "appearance_count": 15,
+          "time_info": "[06时26分 ~ 18时23分]"
         },
         {
           "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
@@ -563,11 +575,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%B0%88%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80",
           "source": "bilibili 热搜",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时29分 ~ 18时23分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高",
@@ -597,8 +610,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时57分 ~ 17时29分]"
+          "appearance_count": 13,
+          "time_info": "[08时57分 ~ 18时23分]"
         },
         {
           "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
@@ -612,8 +625,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[03时45分 ~ 17时29分]"
+          "appearance_count": 19,
+          "time_info": "[03时45分 ~ 18时23分]"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
@@ -689,8 +702,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时43分 ~ 17时29分]"
+          "appearance_count": 22,
+          "time_info": "[00时43分 ~ 18时23分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
@@ -716,9 +729,9 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时29分 ~ 18时23分]"
         }
       ]
     },
