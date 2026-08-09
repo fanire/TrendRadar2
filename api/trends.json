@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T20:32:09.006642+08:00",
-  "total_titles_processed": 1239,
+  "generated_at": "2026-08-09T21:43:19.809603+08:00",
+  "total_titles_processed": 1324,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时22分 ~ 20时32分]"
+          "appearance_count": 25,
+          "time_info": "[00时22分 ~ 21时43分]"
         },
         {
           "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
@@ -101,8 +101,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时56分 ~ 20时32分]"
+          "appearance_count": 13,
+          "time_info": "[12时56分 ~ 21时43分]"
         },
         {
           "title": "特朗普再出手！正式重启罢免美联储理事库克程序，美联储独立性再遭冲击",
@@ -160,11 +160,12 @@
           "source": "澎湃新闻",
           "ranks": [
             11,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时24分 ~ 20时32分]"
+          "appearance_count": 4,
+          "time_info": "[18时24分 ~ 21时43分]"
         },
         {
           "title": "特朗普政府冻结石油大亨萨金特资产，施压其退出委内瑞拉",
@@ -177,6 +178,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时22分 ~ 02时24分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-09）",
+          "url": "https://flash.jin10.com/detail/20260809185901644800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时32分 ~ 21时43分]"
         },
         {
           "title": "特朗普新飞机掉链子了吗",
@@ -200,17 +213,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时23分 ~ 06时19分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-09）",
-          "url": "https://flash.jin10.com/detail/20260809185901644800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时32分"
         },
         {
           "title": "消息人士：若民主党赢得众议院，他们计划对特朗普进行调查而非弹劾",
@@ -238,8 +240,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时56分 ~ 20时32分]"
+          "appearance_count": 13,
+          "time_info": "[12时56分 ~ 21时43分]"
         },
         {
           "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
@@ -276,11 +278,12 @@
           "ranks": [
             12,
             11,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时03分 ~ 20时32分]"
+          "appearance_count": 15,
+          "time_info": "[11时03分 ~ 21时43分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -299,11 +302,12 @@
           "url": "https://wallstreetcn.com/articles/3779012",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时31分 ~ 20时32分]"
+          "appearance_count": 3,
+          "time_info": "[20时31分 ~ 21时43分]"
         }
       ]
     },
